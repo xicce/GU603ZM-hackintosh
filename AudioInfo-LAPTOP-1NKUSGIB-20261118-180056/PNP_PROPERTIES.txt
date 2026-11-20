@@ -1,0 +1,1381 @@
+﻿
+
+Class                                : AudioEndpoint
+Status                               : OK
+FriendlyName                         : Microphone Array (Realtek(R) Audio)
+Manufacturer                         : Microsoft
+InstanceId                           : SWD\MMDEVAPI\{0.0.1.00000000}.{C1776E0C-1F8C-4316-BE18-F327FAD93B72}
+DEVPKEY_Device_HardwareIds           : MMDEVAPI\AudioEndpoints
+DEVPKEY_Device_CompatibleIds         : GenericAudioEndpoint | SWD\GenericRaw | SWD\Generic
+DEVPKEY_Device_BusReportedDeviceDesc : Microphone Array (Realtek(R) Audio)
+DEVPKEY_Device_Driver                : {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}\0001
+DEVPKEY_Device_DriverVersion         : 10.0.26100.1
+DEVPKEY_Device_DriverDate            : 2024/3/31 8:00:00
+DEVPKEY_Device_Class                 : AudioEndpoint
+DEVPKEY_Device_ClassGuid             : {C166523C-FE0C-4A94-A586-F1A80CFBBF3E}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : AudioEndpoint
+Status                               : OK
+FriendlyName                         : 扬声器 (Realtek(R) Audio)
+Manufacturer                         : Microsoft
+InstanceId                           : SWD\MMDEVAPI\{0.0.0.00000000}.{69AABDA3-93C3-41EF-84CA-6708F04CA5F0}
+DEVPKEY_Device_HardwareIds           : MMDEVAPI\AudioEndpoints
+DEVPKEY_Device_CompatibleIds         : GenericAudioEndpoint | SWD\GenericRaw | SWD\Generic
+DEVPKEY_Device_BusReportedDeviceDesc : 扬声器 (Realtek(R) Audio)
+DEVPKEY_Device_Driver                : {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}\0000
+DEVPKEY_Device_DriverVersion         : 10.0.26100.1
+DEVPKEY_Device_DriverDate            : 2024/3/31 8:00:00
+DEVPKEY_Device_Class                 : AudioEndpoint
+DEVPKEY_Device_ClassGuid             : {C166523C-FE0C-4A94-A586-F1A80CFBBF3E}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : Computer
+Status                               : OK
+FriendlyName                         : ASUSTeK COMPUTER INC. ROG Zephyrus M16 GU603ZM_GU603ZM
+Manufacturer                         : Microsoft
+InstanceId                           : SWD\COMPUTER\MFG_ASUSTEK_COMPUTER_INC.&FAM_ROG_ZEPHYRUS_M16&PROD_ROG_ZEPHYRUS_M16_GU603ZM_GU603ZM
+DEVPKEY_Device_HardwareIds           : COMPUTER\{BFB77B68-D7F4-5EE6-BB0D-6276D493859B} | COMPUTER\{0F479CFC-2C28-580E-850B-0442EC3519E6} | COMPUTER\{98C1CFF3-5E15-5006-8886-71B4FD585A57} | COMPUTER\{068E3C50-BD0D-564B-8641-61640D129FBE} | COMPUTER\{D4544F44-60
+                                       44-58DF-9514-C3868B1646BB} | COMPUTER\{507CED40-EE26-5EF8-9B0D-9F419CA4F684} | COMPUTER\{75261CCB-C89B-50D0-B914-880B3EF943B5}
+DEVPKEY_Device_CompatibleIds         : COMPUTER\Generic | SWD\GenericRaw | SWD\Generic
+DEVPKEY_Device_BusReportedDeviceDesc : ASUSTeK COMPUTER INC. ROG Zephyrus M16 GU603ZM_GU603ZM
+DEVPKEY_Device_Driver                : {4d36e966-e325-11ce-bfc1-08002be10318}\0001
+DEVPKEY_Device_DriverVersion         : 10.0.26100.1
+DEVPKEY_Device_DriverDate            : 2006/6/21 8:00:00
+DEVPKEY_Device_Class                 : Computer
+DEVPKEY_Device_ClassGuid             : {4D36E966-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : Firmware
+Status                       : OK
+FriendlyName                 : ROG Zephyrus M16 UEFI
+Manufacturer                 : ASUSTeK COMPUTER INC.
+InstanceId                   : UEFI\RES_{56F15EBB-73D5-5943-AF91-2DF677B685E4}\0
+DEVPKEY_Device_HardwareIds   : UEFI\RES_{56f15ebb-73d5-5943-af91-2df677b685e4}&REV_311 | UEFI\RES_{56f15ebb-73d5-5943-af91-2df677b685e4}
+DEVPKEY_Device_CompatibleIds : UEFI\CC_00010001 | GenFirmwareResource
+DEVPKEY_Device_Driver        : {f2e7dd72-6468-4e36-b6f1-6488f42c1b52}\0000
+DEVPKEY_Device_DriverVersion : 10.1.2.308
+DEVPKEY_Device_DriverDate    : 2022/6/1 8:00:00
+DEVPKEY_Device_Class         : Firmware
+DEVPKEY_Device_ClassGuid     : {F2E7DD72-6468-4E36-B6F1-6488F42C1B52}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : HIDClass
+Status                       : OK
+FriendlyName                 : ASUS Precision Touchpad
+Manufacturer                 : ASUSTek COMPUTER INC.
+InstanceId                   : HID\ASUE120D&COL02\5&301158AD&0&0001
+DEVPKEY_Device_HardwareIds   : HID\VEN_ASUE&DEV_120D&Col02 | HID\ASUE120D&Col02 | HID\*ASUE120D&Col02 | HID\VID_04F3&UP:000D_U:0005 | HID_DEVICE_UP:000D_U:0005 | HID_DEVICE
+DEVPKEY_Device_CompatibleIds : 
+DEVPKEY_Device_Service       : AsusPTPDrv
+DEVPKEY_Device_Driver        : {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0011
+DEVPKEY_Device_DriverVersion : 16.0.0.31
+DEVPKEY_Device_DriverDate    : 2024/9/4 8:00:00
+DEVPKEY_Device_Class         : HIDClass
+DEVPKEY_Device_ClassGuid     : {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : HIDClass
+Status                       : OK
+FriendlyName                 : I2C HID 设备
+Manufacturer                 : Microsoft
+InstanceId                   : ACPI\ASUE120D\1
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_ASUE&DEV_120D | ACPI\ASUE120D | *ASUE120D
+DEVPKEY_Device_CompatibleIds : ACPI\PNP0C50 | PNP0C50
+DEVPKEY_Device_Service       : hidi2c
+DEVPKEY_Device_Driver        : {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0010
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : HIDClass
+DEVPKEY_Device_ClassGuid     : {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : MEDIA
+Status                       : OK
+FriendlyName                 : Microsoft 流服务代理
+Manufacturer                 : Microsoft
+InstanceId                   : SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+DEVPKEY_Device_HardwareIds   : SW\{96E080C7-143C-11D1-B40F-00A0C9223196}
+DEVPKEY_Device_Service       : MSKSSRV
+DEVPKEY_Device_Driver        : {4d36e96c-e325-11ce-bfc1-08002be10318}\0005
+DEVPKEY_Device_DriverVersion : 10.0.26100.1
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : MEDIA
+DEVPKEY_Device_ClassGuid     : {4D36E96C-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : MEDIA
+Status                               : OK
+FriendlyName                         : NVIDIA High Definition Audio
+Manufacturer                         : NVIDIA
+InstanceId                           : HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38F62B09&0&0001
+DEVPKEY_Device_HardwareIds           : HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001 | HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C
+DEVPKEY_Device_CompatibleIds         : HDAUDIO\FUNC_01&CTLR_VEN_10DE&CTLR_DEV_228E&VEN_10DE&DEV_009F&REV_1001 | HDAUDIO\FUNC_01&CTLR_VEN_10DE&VEN_10DE&DEV_009F&REV_1001 | HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&REV_1001 | HDAUDIO\FUNC_01&CTLR_VEN_10DE&CTLR_DEV_228E&
+                                       VEN_10DE&DEV_009F | HDAUDIO\FUNC_01&CTLR_VEN_10DE&VEN_10DE&DEV_009F | HDAUDIO\FUNC_01&VEN_10DE&DEV_009F | HDAUDIO\FUNC_01&CTLR_VEN_10DE&CTLR_DEV_228E&VEN_10DE | HDAUDIO\FUNC_01&CTLR_VEN_10DE&VEN_10DE | HDAUDIO\FUNC_01&VEN
+                                       _10DE | HDAUDIO\FUNC_01&CTLR_VEN_10DE&CTLR_DEV_228E | HDAUDIO\FUNC_01&CTLR_VEN_10DE | HDAUDIO\FUNC_01&GF&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001 | HDAUDIO\FUNC_01
+DEVPKEY_Device_BusReportedDeviceDesc : Audio Device on High Definition Audio Bus
+DEVPKEY_Device_LocationInfo          : Internal High Definition Audio Bus
+DEVPKEY_Device_Service               : NVHDA
+DEVPKEY_Device_Driver                : {4d36e96c-e325-11ce-bfc1-08002be10318}\0000
+DEVPKEY_Device_DriverVersion         : 1.4.6.6
+DEVPKEY_Device_DriverDate            : 2026/8/25 8:00:00
+DEVPKEY_Device_Class                 : MEDIA
+DEVPKEY_Device_ClassGuid             : {4D36E96C-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : MEDIA
+Status                       : OK
+FriendlyName                 : NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+Manufacturer                 : NVIDIA
+InstanceId                   : ROOT\UNNAMED_DEVICE\0000
+DEVPKEY_Device_HardwareIds   : USB\VID_0955&PID_9000
+DEVPKEY_Device_Service       : nvvad_WaveExtensible
+DEVPKEY_Device_Driver        : {4d36e96c-e325-11ce-bfc1-08002be10318}\0007
+DEVPKEY_Device_DriverVersion : 4.92.0.0
+DEVPKEY_Device_DriverDate    : 2026/8/4 8:00:00
+DEVPKEY_Device_Class         : MEDIA
+DEVPKEY_Device_ClassGuid     : {4D36E96C-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : MEDIA
+Status                               : OK
+FriendlyName                         : Realtek(R) Audio
+Manufacturer                         : Realtek
+InstanceId                           : INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30FBD8AB&0&0001
+DEVPKEY_Device_HardwareIds           : INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000 | INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62
+DEVPKEY_Device_CompatibleIds         : INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&REV_1000 | INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285 | INTELAUDIO\FUNC_01&VEN_10EC | INTELAUDIO\FUNC_01
+DEVPKEY_Device_BusReportedDeviceDesc : Intel High Definition Audio
+DEVPKEY_Device_LocationInfo          : HD Audio Bus Driver
+DEVPKEY_Device_Service               : IntcAzAudAddService
+DEVPKEY_Device_Driver                : {4d36e96c-e325-11ce-bfc1-08002be10318}\0003
+DEVPKEY_Device_DriverVersion         : 6.0.9373.1
+DEVPKEY_Device_DriverDate            : 2022/6/28 8:00:00
+DEVPKEY_Device_Class                 : MEDIA
+DEVPKEY_Device_ClassGuid             : {4D36E96C-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : MEDIA
+Status                               : OK
+FriendlyName                         : 适用于 USB 音频的英特尔® 智音技术
+Manufacturer                         : Intel(R) Corporation
+InstanceId                           : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001\0602
+DEVPKEY_Device_HardwareIds           : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001 | INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043
+DEVPKEY_Device_CompatibleIds         : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&REV_0001 | INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50 | INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06
+DEVPKEY_Device_BusReportedDeviceDesc : USB device
+DEVPKEY_Device_LocationInfo          : Offload Engine Driver
+DEVPKEY_Device_Service               : IntcUSB
+DEVPKEY_Device_Driver                : {4d36e96c-e325-11ce-bfc1-08002be10318}\0002
+DEVPKEY_Device_DriverVersion         : 10.29.0.7767
+DEVPKEY_Device_DriverDate            : 2022/5/30 8:00:00
+DEVPKEY_Device_Class                 : MEDIA
+DEVPKEY_Device_ClassGuid             : {4D36E96C-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : MEDIA
+Status                               : OK
+FriendlyName                         : 适用于蓝牙® 音频的英特尔® 智音技术
+Manufacturer                         : Intel(R) Corporation
+InstanceId                           : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001\5&30FBD8AB&0&0000
+DEVPKEY_Device_HardwareIds           : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001 | INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043
+DEVPKEY_Device_CompatibleIds         : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&REV_0001 | INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30 | INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00
+DEVPKEY_Device_BusReportedDeviceDesc : BT Sideband device
+DEVPKEY_Device_LocationInfo          : Offload Engine Driver
+DEVPKEY_Device_Service               : IntcBTAu
+DEVPKEY_Device_Driver                : {4d36e96c-e325-11ce-bfc1-08002be10318}\0004
+DEVPKEY_Device_DriverVersion         : 10.29.0.7767
+DEVPKEY_Device_DriverDate            : 2022/5/30 8:00:00
+DEVPKEY_Device_Class                 : MEDIA
+DEVPKEY_Device_ClassGuid             : {4D36E96C-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : Net
+Status                               : OK
+FriendlyName                         : Realtek Gaming 2.5GbE Family Controller
+Manufacturer                         : Realtek
+InstanceId                           : PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05\01000000684CE00000
+DEVPKEY_Device_HardwareIds           : PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05 | PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043 | PCI\VEN_10EC&DEV_8125&CC_020000 | PCI\VEN_10EC&DEV_8125&CC_0200
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_10EC&DEV_8125&REV_05 | PCI\VEN_10EC&DEV_8125 | PCI\VEN_10EC&CC_020000 | PCI\VEN_10EC&CC_0200 | PCI\VEN_10EC | PCI\CC_020000&DT_0 | PCI\CC_020000 | PCI\CC_0200&DT_0 | PCI\CC_0200
+DEVPKEY_Device_BusReportedDeviceDesc : 以太网控制器
+DEVPKEY_Device_LocationInfo          : PCI 总线 45、设备 0、功能 0
+DEVPKEY_Device_Service               : rt25cx21
+DEVPKEY_Device_Driver                : {4d36e972-e325-11ce-bfc1-08002be10318}\0004
+DEVPKEY_Device_DriverVersion         : 1125.8.515.2022
+DEVPKEY_Device_DriverDate            : 2022/5/15 8:00:00
+DEVPKEY_Device_Class                 : Net
+DEVPKEY_Device_ClassGuid             : {4D36E972-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : Net
+Status                       : OK
+FriendlyName                 : WAN Miniport (SSTP)
+Manufacturer                 : Microsoft
+InstanceId                   : SWD\MSRRAS\MS_SSTPMINIPORT
+DEVPKEY_Device_HardwareIds   : ms_sstpminiport
+DEVPKEY_Device_CompatibleIds : SWD\Generic
+DEVPKEY_Device_Service       : RasSstp
+DEVPKEY_Device_Driver        : {4d36e972-e325-11ce-bfc1-08002be10318}\0006
+DEVPKEY_Device_DriverVersion : 10.0.26100.1
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : Net
+DEVPKEY_Device_ClassGuid     : {4D36E972-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : SoftwareComponent
+Status                               : OK
+FriendlyName                         : Realtek Asio Component
+Manufacturer                         : Realtek
+InstanceId                           : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKASIO&6&2243D99&0
+DEVPKEY_Device_HardwareIds           : SWC\VEN_10EC&ASIO_ID_0001
+DEVPKEY_Device_CompatibleIds         : SWC\Generic | SWD\GenericRaw | SWD\Generic
+DEVPKEY_Device_BusReportedDeviceDesc : Realtek Asio Component
+DEVPKEY_Device_Driver                : {5c4c3332-344d-483c-8739-259e934c9cc8}\0007
+DEVPKEY_Device_DriverVersion         : 1.0.0.8
+DEVPKEY_Device_DriverDate            : 2021/3/24 8:00:00
+DEVPKEY_Device_Class                 : SoftwareComponent
+DEVPKEY_Device_ClassGuid             : {5C4C3332-344D-483C-8739-259E934C9CC8}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : SoftwareComponent
+Status                               : OK
+FriendlyName                         : Realtek Audio Effects Component
+Manufacturer                         : Realtek
+InstanceId                           : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&2243D99&0
+DEVPKEY_Device_HardwareIds           : SWC\VEN_10EC&AID_0001
+DEVPKEY_Device_CompatibleIds         : SWC\Generic | SWD\GenericRaw | SWD\Generic
+DEVPKEY_Device_BusReportedDeviceDesc : Realtek Audio Effects Component
+DEVPKEY_Device_Driver                : {5c4c3332-344d-483c-8739-259e934c9cc8}\0005
+DEVPKEY_Device_DriverVersion         : 11.0.6000.1046
+DEVPKEY_Device_DriverDate            : 2022/4/18 8:00:00
+DEVPKEY_Device_Class                 : SoftwareComponent
+DEVPKEY_Device_ClassGuid             : {5C4C3332-344D-483C-8739-259E934C9CC8}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : SoftwareComponent
+Status                               : OK
+FriendlyName                         : Realtek Audio Universal Service
+Manufacturer                         : Realtek
+InstanceId                           : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&2243D99&0
+DEVPKEY_Device_HardwareIds           : SWC\VEN_10EC&SID_0001
+DEVPKEY_Device_CompatibleIds         : SWC\Generic | SWD\GenericRaw | SWD\Generic
+DEVPKEY_Device_BusReportedDeviceDesc : Realtek Audio Universal Service
+DEVPKEY_Device_Driver                : {5c4c3332-344d-483c-8739-259e934c9cc8}\0008
+DEVPKEY_Device_DriverVersion         : 1.0.0.539
+DEVPKEY_Device_DriverDate            : 2022/6/27 8:00:00
+DEVPKEY_Device_Class                 : SoftwareComponent
+DEVPKEY_Device_ClassGuid             : {5C4C3332-344D-483C-8739-259E934C9CC8}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : SoftwareComponent
+Status                               : OK
+FriendlyName                         : Realtek Hardware Support Application
+Manufacturer                         : Realtek
+InstanceId                           : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&2243D99&0
+DEVPKEY_Device_HardwareIds           : SWC\VEN_10EC&HID_0001
+DEVPKEY_Device_CompatibleIds         : SWC\Generic | SWD\GenericRaw | SWD\Generic
+DEVPKEY_Device_BusReportedDeviceDesc : Realtek Hardware Support Application
+DEVPKEY_Device_Driver                : {5c4c3332-344d-483c-8739-259e934c9cc8}\0006
+DEVPKEY_Device_DriverVersion         : 11.0.6000.273
+DEVPKEY_Device_DriverDate            : 2022/5/5 8:00:00
+DEVPKEY_Device_Class                 : SoftwareComponent
+DEVPKEY_Device_ClassGuid             : {5C4C3332-344D-483C-8739-259E934C9CC8}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : ACPI 处理器聚合器
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\ACPI000C\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_ACPI&DEV_000C | ACPI\ACPI000C | *ACPI000C
+DEVPKEY_Device_Service       : acpipagr
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0016
+DEVPKEY_Device_DriverVersion : 10.0.26100.1150
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : ACPI 电源按钮
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C0C\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C0C | ACPI\PNP0C0C | *PNP0C0C
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0020
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : ACPI 盖子
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C0D\5&17CCA4AF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C0D | ACPI\PNP0C0D | *PNP0C0D
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0054
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : ACPI 固定功能按钮
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\FIXEDBUTTON\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\FixedButton | *FixedButton
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0028
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : ACPI 唤醒警报
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\ACPI000E\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_ACPI&DEV_000E | ACPI\ACPI000E | *ACPI000E
+DEVPKEY_Device_Service       : acpitime
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0009
+DEVPKEY_Device_DriverVersion : 10.0.26100.1150
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : ACPI 热区域
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\THERMALZONE\THRM
+DEVPKEY_Device_HardwareIds   : ACPI\ThermalZone | *ThermalZone
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0025
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : ACPI 睡眠按钮
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C0E\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C0E | ACPI\PNP0C0E | *PNP0C0E
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0015
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Armoury Crate Control Interface
+Manufacturer                 : ASUS
+InstanceId                   : ACPI\ASUS9001\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_ASUS&DEV_9001 | ACPI\ASUS9001 | *ASUS9001
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0063
+DEVPKEY_Device_DriverVersion : 1.2.0.2
+DEVPKEY_Device_DriverDate    : 2026/3/2 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : ASUS System Control Interface v3
+Manufacturer                 : ASUS
+InstanceId                   : ACPI\ASUS2018\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_ASUS&DEV_2018 | ACPI\ASUS2018 | *ASUS2018
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0022
+DEVPKEY_Device_DriverVersion : 3.1.73.0
+DEVPKEY_Device_DriverDate    : 2026/10/19 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : FakerInput Device
+Manufacturer                 : Ryochan7
+InstanceId                   : ROOT\SYSTEM\0004
+DEVPKEY_Device_HardwareIds   : root\FakerInput
+DEVPKEY_Device_Service       : mshidumdf
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0067
+DEVPKEY_Device_DriverVersion : 0.1.0.0
+DEVPKEY_Device_DriverDate    : 2021/6/3 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : High Definition Audio 控制器
+Manufacturer                         : Microsoft
+InstanceId                           : PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1\4&356D80C2&0&0108
+DEVPKEY_Device_HardwareIds           : PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1 | PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043 | PCI\VEN_10DE&DEV_228E&CC_040300 | PCI\VEN_10DE&DEV_228E&CC_0403
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_10DE&DEV_228E&REV_A1 | PCI\VEN_10DE&DEV_228E | PCI\VEN_10DE&CC_040300 | PCI\VEN_10DE&CC_0403 | PCI\VEN_10DE | PCI\CC_040300&DT_0 | PCI\CC_040300 | PCI\CC_0403&DT_0 | PCI\CC_0403
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 设备
+DEVPKEY_Device_LocationInfo          : PCI 总线 1、设备 0、功能 1
+DEVPKEY_Device_Service               : HDAudBus
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0053
+DEVPKEY_Device_DriverVersion         : 10.0.26100.9818
+DEVPKEY_Device_DriverDate            : 2026/10/25 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) GNA Scoring Accelerator module
+Manufacturer                         : Intel Corporation
+InstanceId                           : PCI\VEN_8086&DEV_464F&SUBSYS_1C621043&REV_02\3&11583659&0&40
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_464F&SUBSYS_1C621043&REV_02 | PCI\VEN_8086&DEV_464F&SUBSYS_1C621043 | PCI\VEN_8086&DEV_464F&CC_088000 | PCI\VEN_8086&DEV_464F&CC_0880
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_464F&REV_02 | PCI\VEN_8086&DEV_464F | PCI\VEN_8086&CC_088000 | PCI\VEN_8086&CC_0880 | PCI\VEN_8086 | PCI\CC_088000 | PCI\CC_0880
+DEVPKEY_Device_BusReportedDeviceDesc : 基本系统设备
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 8、功能 0
+DEVPKEY_Device_Service               : IntelGNA
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0034
+DEVPKEY_Device_DriverVersion         : 3.0.0.1457
+DEVPKEY_Device_DriverDate            : 2021/11/26 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) Host Bridge/DRAM Registers - 4641
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_4641&SUBSYS_1C621043&REV_02\3&11583659&0&00
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_4641&SUBSYS_1C621043&REV_02 | PCI\VEN_8086&DEV_4641&SUBSYS_1C621043 | PCI\VEN_8086&DEV_4641&CC_060000 | PCI\VEN_8086&DEV_4641&CC_0600
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_4641&REV_02 | PCI\VEN_8086&DEV_4641 | PCI\VEN_8086&CC_060000 | PCI\VEN_8086&CC_0600 | PCI\VEN_8086 | PCI\CC_060000 | PCI\CC_0600
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 主桥
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 0、功能 0
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0029
+DEVPKEY_Device_DriverVersion         : 10.1.45.9
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Intel(R) Innovation Platform Framework Generic Participant
+Manufacturer                 : Intel
+InstanceId                   : ACPI\INTC1046\SEN1
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_INTC&DEV_1046 | ACPI\INTC1046 | *INTC1046
+DEVPKEY_Device_Service       : ipf_acpi
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0055
+DEVPKEY_Device_DriverVersion : 1.0.11000.27915
+DEVPKEY_Device_DriverDate    : 2022/6/3 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Intel(R) Innovation Platform Framework Generic Participant
+Manufacturer                 : Intel
+InstanceId                   : ACPI\INTC1046\SEN2
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_INTC&DEV_1046 | ACPI\INTC1046 | *INTC1046
+DEVPKEY_Device_Service       : ipf_acpi
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0056
+DEVPKEY_Device_DriverVersion : 1.0.11000.27915
+DEVPKEY_Device_DriverDate    : 2022/6/3 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Intel(R) Innovation Platform Framework Generic Participant
+Manufacturer                 : Intel
+InstanceId                   : ACPI\INTC1046\SEN3
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_INTC&DEV_1046 | ACPI\INTC1046 | *INTC1046
+DEVPKEY_Device_Service       : ipf_acpi
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0057
+DEVPKEY_Device_DriverVersion : 1.0.11000.27915
+DEVPKEY_Device_DriverDate    : 2022/6/3 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Intel(R) Innovation Platform Framework Generic Participant
+Manufacturer                 : Intel
+InstanceId                   : ACPI\INTC1046\SEN4
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_INTC&DEV_1046 | ACPI\INTC1046 | *INTC1046
+DEVPKEY_Device_Service       : ipf_acpi
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0058
+DEVPKEY_Device_DriverVersion : 1.0.11000.27915
+DEVPKEY_Device_DriverDate    : 2022/6/3 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Intel(R) Innovation Platform Framework Manager
+Manufacturer                 : Intel
+InstanceId                   : ACPI\INTC1041\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_INTC&DEV_1041 | ACPI\INTC1041 | *INTC1041
+DEVPKEY_Device_Service       : ipf_acpi
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0027
+DEVPKEY_Device_DriverVersion : 1.0.11000.27915
+DEVPKEY_Device_DriverDate    : 2022/6/3 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) Innovation Platform Framework Processor Participant
+Manufacturer                         : Intel
+InstanceId                           : PCI\VEN_8086&DEV_461D&SUBSYS_1C621043&REV_02\3&11583659&0&20
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_461D&SUBSYS_1C621043&REV_02 | PCI\VEN_8086&DEV_461D&SUBSYS_1C621043 | PCI\VEN_8086&DEV_461D&CC_118000 | PCI\VEN_8086&DEV_461D&CC_1180
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_461D&REV_02 | PCI\VEN_8086&DEV_461D | PCI\VEN_8086&CC_118000 | PCI\VEN_8086&CC_1180 | PCI\VEN_8086 | PCI\CC_118000 | PCI\CC_1180
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 数据捕获和信号处理控制器
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 4、功能 0
+DEVPKEY_Device_Service               : ipf_cpu
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0031
+DEVPKEY_Device_DriverVersion         : 1.0.11000.27915
+DEVPKEY_Device_DriverDate            : 2022/6/3 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) LPC Controller - 5182
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_5182&SUBSYS_1C621043&REV_01\3&11583659&0&F8
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_5182&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_5182&SUBSYS_1C621043 | PCI\VEN_8086&DEV_5182&CC_060100 | PCI\VEN_8086&DEV_5182&CC_0601
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_5182&REV_01 | PCI\VEN_8086&DEV_5182 | PCI\VEN_8086&CC_060100 | PCI\VEN_8086&CC_0601 | PCI\VEN_8086 | PCI\CC_060100 | PCI\CC_0601
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 到 ISA 桥
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 31、功能 0
+DEVPKEY_Device_Service               : msisadrv
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0042
+DEVPKEY_Device_DriverVersion         : 10.1.36.7
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) Management Engine Interface #1
+Manufacturer                         : Intel
+InstanceId                           : PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043&REV_01\3&11583659&0&B0
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51E0&CC_078000 | PCI\VEN_8086&DEV_51E0&CC_0780
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51E0&REV_01 | PCI\VEN_8086&DEV_51E0 | PCI\VEN_8086&CC_078000 | PCI\VEN_8086&CC_0780 | PCI\VEN_8086 | PCI\CC_078000 | PCI\CC_0780
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 简单通讯控制器
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 22、功能 0
+DEVPKEY_Device_Service               : MEIx64
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0039
+DEVPKEY_Device_DriverVersion         : 2220.3.1.0
+DEVPKEY_Device_DriverDate            : 2022/5/9 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) PCI Express Root Port #5 - 51BC
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043&REV_01\3&11583659&0&E0
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51BC&CC_060400 | PCI\VEN_8086&DEV_51BC&CC_0604
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51BC&REV_01 | PCI\VEN_8086&DEV_51BC | PCI\VEN_8086&CC_060400 | PCI\VEN_8086&CC_0604 | PCI\VEN_8086 | PCI\CC_060400&DT_4 | PCI\CC_060400 | PCI\CC_0604&DT_4 | PCI\CC_0604
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 到 PCI 桥
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 28、功能 0
+DEVPKEY_Device_Service               : pci
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0040
+DEVPKEY_Device_DriverVersion         : 10.1.36.7
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) PCI Express Root Port #7 - 51BE
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043&REV_01\3&11583659&0&E6
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51BE&CC_060400 | PCI\VEN_8086&DEV_51BE&CC_0604
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51BE&REV_01 | PCI\VEN_8086&DEV_51BE | PCI\VEN_8086&CC_060400 | PCI\VEN_8086&CC_0604 | PCI\VEN_8086 | PCI\CC_060400&DT_4 | PCI\CC_060400 | PCI\CC_0604&DT_4 | PCI\CC_0604
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 到 PCI 桥
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 28、功能 6
+DEVPKEY_Device_Service               : pci
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0041
+DEVPKEY_Device_DriverVersion         : 10.1.36.7
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) PEG10 - 460D
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_460D&SUBSYS_1C621043&REV_02\3&11583659&0&08
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_460D&SUBSYS_1C621043&REV_02 | PCI\VEN_8086&DEV_460D&SUBSYS_1C621043 | PCI\VEN_8086&DEV_460D&CC_060400 | PCI\VEN_8086&DEV_460D&CC_0604
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_460D&REV_02 | PCI\VEN_8086&DEV_460D | PCI\VEN_8086&CC_060400 | PCI\VEN_8086&CC_0604 | PCI\VEN_8086 | PCI\CC_060400&DT_4 | PCI\CC_060400 | PCI\CC_0604&DT_4 | PCI\CC_0604
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 到 PCI 桥
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 1、功能 0
+DEVPKEY_Device_Service               : pci
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0030
+DEVPKEY_Device_DriverVersion         : 10.1.45.9
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) PEG60 - 464D
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02\3&11583659&0&30
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02 | PCI\VEN_8086&DEV_464D&SUBSYS_00000000 | PCI\VEN_8086&DEV_464D&REV_02 | PCI\VEN_8086&DEV_464D | PCI\VEN_8086&DEV_464D&CC_060400 | PCI\VEN_8086&DEV_464D&CC_0604
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&CC_060400 | PCI\VEN_8086&CC_0604 | PCI\VEN_8086 | PCI\CC_060400&DT_4 | PCI\CC_060400 | PCI\CC_0604&DT_4 | PCI\CC_0604
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 到 PCI 桥
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 6、功能 0
+DEVPKEY_Device_Service               : pci
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0032
+DEVPKEY_Device_DriverVersion         : 10.1.45.9
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Intel(R) Power Engine Plug-in
+Manufacturer                 : Intel Corporation
+InstanceId                   : ACPI\INT33A1\1
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_INT&DEV_33A1 | ACPI\INT33A1 | *INT33A1
+DEVPKEY_Device_CompatibleIds : *PNP0D80
+DEVPKEY_Device_Service       : intelpep
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0019
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Intel(R) Serial IO GPIO Host Controller - INTC1055
+Manufacturer                 : Intel Corporation
+InstanceId                   : ACPI\INTC1055\2&DABA3FF&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_INTC&DEV_1055 | ACPI\INTC1055 | *INTC1055
+DEVPKEY_Device_Service       : iaLPSS2_GPIO2_ADL
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0012
+DEVPKEY_Device_DriverVersion : 30.100.2212.4
+DEVPKEY_Device_DriverDate    : 2022/3/15 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) Serial IO I2C Host Controller - 51E8
+Manufacturer                         : Intel Corporation
+InstanceId                           : PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01\3&11583659&0&A8
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51E8&CC_0C8000 | PCI\VEN_8086&DEV_51E8&CC_0C80
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51E8&REV_01 | PCI\VEN_8086&DEV_51E8 | PCI\VEN_8086&CC_0C8000 | PCI\VEN_8086&CC_0C80 | PCI\VEN_8086 | PCI\CC_0C8000 | PCI\CC_0C80
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 设备
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 21、功能 0
+DEVPKEY_Device_Service               : iaLPSS2_I2C_ADL
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0037
+DEVPKEY_Device_DriverVersion         : 30.100.2212.4
+DEVPKEY_Device_DriverDate            : 2022/3/15 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) Serial IO I2C Host Controller - 51E9
+Manufacturer                         : Intel Corporation
+InstanceId                           : PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01\3&11583659&0&A9
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51E9&CC_0C8000 | PCI\VEN_8086&DEV_51E9&CC_0C80
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51E9&REV_01 | PCI\VEN_8086&DEV_51E9 | PCI\VEN_8086&CC_0C8000 | PCI\VEN_8086&CC_0C80 | PCI\VEN_8086 | PCI\CC_0C8000 | PCI\CC_0C80
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 设备
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 21、功能 1
+DEVPKEY_Device_Service               : iaLPSS2_I2C_ADL
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0038
+DEVPKEY_Device_DriverVersion         : 30.100.2212.4
+DEVPKEY_Device_DriverDate            : 2022/3/15 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) Shared SRAM - 51EF
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043&REV_01\3&11583659&0&A2
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51EF&CC_050000 | PCI\VEN_8086&DEV_51EF&CC_0500
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51EF&REV_01 | PCI\VEN_8086&DEV_51EF | PCI\VEN_8086&CC_050000 | PCI\VEN_8086&CC_0500 | PCI\VEN_8086 | PCI\CC_050000 | PCI\CC_0500
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 内存
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 20、功能 2
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0036
+DEVPKEY_Device_DriverVersion         : 10.1.36.7
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) SMBus - 51A3
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043&REV_01\3&11583659&0&FC
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51A3&CC_0C0500 | PCI\VEN_8086&DEV_51A3&CC_0C05
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51A3&REV_01 | PCI\VEN_8086&DEV_51A3 | PCI\VEN_8086&CC_0C0500 | PCI\VEN_8086&CC_0C05 | PCI\VEN_8086 | PCI\CC_0C0500 | PCI\CC_0C05
+DEVPKEY_Device_BusReportedDeviceDesc : SM 总线控制器
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 31、功能 4
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0044
+DEVPKEY_Device_DriverVersion         : 10.1.36.7
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) SPI (flash) Controller - 51A4
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01\3&11583659&0&FD
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51A4&CC_0C8000 | PCI\VEN_8086&DEV_51A4&CC_0C80
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51A4&REV_01 | PCI\VEN_8086&DEV_51A4 | PCI\VEN_8086&CC_0C8000 | PCI\VEN_8086&CC_0C80 | PCI\VEN_8086 | PCI\CC_0C8000 | PCI\CC_0C80
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 设备
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 31、功能 5
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0045
+DEVPKEY_Device_DriverVersion         : 10.1.36.7
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) TypeC PCIe - 466E
+Manufacturer                         : INTEL
+InstanceId                           : PCI\VEN_8086&DEV_466E&SUBSYS_00000000&REV_02\3&11583659&0&38
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_466E&SUBSYS_00000000&REV_02 | PCI\VEN_8086&DEV_466E&SUBSYS_00000000 | PCI\VEN_8086&DEV_466E&REV_02 | PCI\VEN_8086&DEV_466E | PCI\VEN_8086&DEV_466E&CC_060400 | PCI\VEN_8086&DEV_466E&CC_0604
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&CC_060400 | PCI\VEN_8086&CC_0604 | PCI\VEN_8086 | PCI\CC_060400&DT_4 | PCI\CC_060400 | PCI\CC_0604&DT_4 | PCI\CC_0604
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 到 PCI 桥
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 7、功能 0
+DEVPKEY_Device_Service               : pci
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0033
+DEVPKEY_Device_DriverVersion         : 10.1.45.9
+DEVPKEY_Device_DriverDate            : 1968/7/18 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : Intel(R) 平台监控技术驱动程序
+Manufacturer                         : Intel(R) 平台监控技术设备
+InstanceId                           : PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01\3&11583659&0&50
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01 | PCI\VEN_8086&DEV_467D&SUBSYS_00000000 | PCI\VEN_8086&DEV_467D&REV_01 | PCI\VEN_8086&DEV_467D | PCI\VEN_8086&DEV_467D&CC_118000 | PCI\VEN_8086&DEV_467D&CC_1180
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&CC_118000 | PCI\VEN_8086&CC_1180 | PCI\VEN_8086 | PCI\CC_118000&DT_9 | PCI\CC_118000 | PCI\CC_1180&DT_9 | PCI\CC_1180
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 数据捕获和信号处理控制器
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 10、功能 0
+DEVPKEY_Device_Service               : IntelPMT
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0035
+DEVPKEY_Device_DriverVersion         : 10.0.26100.9818
+DEVPKEY_Device_DriverDate            : 2006/6/21 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft ACPI 兼容的嵌入式控制器
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C09\4&1482180&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C09 | ACPI\PNP0C09 | *PNP0C09
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0052
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft ACPI-Compliant System
+Manufacturer                 : Microsoft
+InstanceId                   : ACPI_HAL\PNP0C08\0
+DEVPKEY_Device_HardwareIds   : ACPI_HAL\PNP0C08 | *PNP0C08
+DEVPKEY_Device_Service       : ACPI
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0006
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft Hyper-V 虚拟化基础结构驱动程序
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\VID\0000
+DEVPKEY_Device_HardwareIds   : ROOT\VID
+DEVPKEY_Device_Service       : Vid
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0000
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft System Management BIOS Driver
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ROOT\MSSMBIOS\0000
+DEVPKEY_Device_HardwareIds   : ROOT\mssmbios
+DEVPKEY_Device_Service       : mssmbios
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0060
+DEVPKEY_Device_DriverVersion : 10.0.26100.1
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft UEFI 兼容系统
+Manufacturer                 : Microsoft
+InstanceId                   : ACPI_HAL\UEFI\0
+DEVPKEY_Device_HardwareIds   : ACPI_HAL\UEFI
+DEVPKEY_Device_Service       : UEFI
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0007
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft Windows Management Interface for ACPI
+Manufacturer                 : Microsoft
+InstanceId                   : ACPI\PNP0C14\ATK
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C14 | ACPI\PNP0C14 | *PNP0C14
+DEVPKEY_Device_Service       : WmiAcpi
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0021
+DEVPKEY_Device_DriverVersion : 10.0.26100.1150
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft Windows Management Interface for ACPI
+Manufacturer                 : Microsoft
+InstanceId                   : ACPI\PNP0C14\DSARDEV
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C14 | ACPI\PNP0C14 | *PNP0C14
+DEVPKEY_Device_Service       : WmiAcpi
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0017
+DEVPKEY_Device_DriverVersion : 10.0.26100.1150
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft Windows Management Interface for ACPI
+Manufacturer                 : Microsoft
+InstanceId                   : ACPI\PNP0C14\TESTDEV
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C14 | ACPI\PNP0C14 | *PNP0C14
+DEVPKEY_Device_Service       : WmiAcpi
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0018
+DEVPKEY_Device_DriverVersion : 10.0.26100.1150
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft 基本呈现驱动程序
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\BASICRENDER\0000
+DEVPKEY_Device_HardwareIds   : ROOT\BasicRender
+DEVPKEY_Device_Service       : BasicRender
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0024
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft 基本显示驱动程序
+Manufacturer                 : (标准显示器类型)
+InstanceId                   : ROOT\BASICDISPLAY\0000
+DEVPKEY_Device_HardwareIds   : ROOT\BasicDisplay
+DEVPKEY_Device_Service       : BasicDisplay
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0023
+DEVPKEY_Device_DriverVersion : 10.0.26100.8521
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft 虚拟机监控程序服务
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\HVSERVICE\0000
+DEVPKEY_Device_HardwareIds   : ROOT\hvservice
+DEVPKEY_Device_Service       : hvservice
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0068
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Microsoft 虚拟驱动器枚举器
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\VDRVROOT\0000
+DEVPKEY_Device_HardwareIds   : ROOT\vdrvroot
+DEVPKEY_Device_Service       : vdrvroot
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0059
+DEVPKEY_Device_DriverVersion : 10.0.26100.1591
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : NDIS 虚拟网络适配器枚举器
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\NDISVIRTUALBUS\0000
+DEVPKEY_Device_HardwareIds   : ROOT\NdisVirtualBus
+DEVPKEY_Device_Service       : NdisVirtualBus
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0003
+DEVPKEY_Device_DriverVersion : 10.0.26100.1
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Nefarius HidHide Device
+Manufacturer                 : Nefarius Software Solutions e.U.
+InstanceId                   : ROOT\SYSTEM\0003
+DEVPKEY_Device_HardwareIds   : root\HidHide
+DEVPKEY_Device_Service       : HidHide
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0066
+DEVPKEY_Device_DriverVersion : 1.4.181.0
+DEVPKEY_Device_DriverDate    : 2023/10/31 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : Nefarius Virtual Gamepad Emulation Bus
+Manufacturer                 : Nefarius Software Solutions e.U.
+InstanceId                   : ROOT\SYSTEM\0001
+DEVPKEY_Device_HardwareIds   : Nefarius\ViGEmBus\Gen1
+DEVPKEY_Device_Service       : ViGEmBus
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0064
+DEVPKEY_Device_DriverVersion : 1.21.442.0
+DEVPKEY_Device_DriverDate    : 2022/8/30 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : PCI Express 根复合体
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0A08\0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0A08 | ACPI\PNP0A08 | *PNP0A08
+DEVPKEY_Device_CompatibleIds : *PNP0A03
+DEVPKEY_Device_Service       : pci
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0008
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : UMBus Root Bus Enumerator
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\UMBUS\0000
+DEVPKEY_Device_HardwareIds   : root\umbus
+DEVPKEY_Device_Service       : umbus
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0002
+DEVPKEY_Device_DriverVersion : 10.0.26100.1150
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : UUYCInput HID
+Manufacturer                 : Netease
+InstanceId                   : ROOT\SYSTEM\0002
+DEVPKEY_Device_HardwareIds   : netease\uuycinput
+DEVPKEY_Device_Service       : uuycinput
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0065
+DEVPKEY_Device_DriverVersion : 10.13.41.905
+DEVPKEY_Device_DriverDate    : 2026/10/22 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 充电均衡驱动程序
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ROOT\CAD\0000
+DEVPKEY_Device_HardwareIds   : ROOT\CAD
+DEVPKEY_Device_Service       : CAD
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0026
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 复合总线枚举器
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\COMPOSITEBUS\0000
+DEVPKEY_Device_HardwareIds   : ROOT\CompositeBus
+DEVPKEY_Device_Service       : CompositeBus
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0001
+DEVPKEY_Device_DriverVersion : 10.0.26100.1150
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 高精度事件计时器
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0103\0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0103 | ACPI\PNP0103 | *PNP0103
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0047
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 即插即用软件设备枚举器
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ROOT\SYSTEM\0000
+DEVPKEY_Device_HardwareIds   : ROOT\SWENUM
+DEVPKEY_Device_Service       : swenum
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0004
+DEVPKEY_Device_DriverVersion : 10.0.26100.4202
+DEVPKEY_Device_DriverDate    : 2025/5/23 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 卷管理器
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\VOLMGR\0000
+DEVPKEY_Device_HardwareIds   : ROOT\VOLMGR
+DEVPKEY_Device_CompatibleIds : DETECTEDInternal\volmgr | DETECTED\volmgr
+DEVPKEY_Device_Service       : volmgr
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0013
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 可编程中断控制器
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0000\4&1482180&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0000 | ACPI\PNP0000 | *PNP0000
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0048
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 母板资源
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\INTC1099\4&1482180&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_INTC&DEV_1099 | ACPI\INTC1099 | *INTC1099
+DEVPKEY_Device_CompatibleIds : *PNP0C02
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0051
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 母板资源
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C02\1
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C02 | ACPI\PNP0C02 | *PNP0C02
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0046
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 母板资源
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C02\2
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C02 | ACPI\PNP0C02 | *PNP0C02
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0049
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 母板资源
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C02\5
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C02 | ACPI\PNP0C02 | *PNP0C02
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0011
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 母板资源
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C02\IOTRAPS
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C02 | ACPI\PNP0C02 | *PNP0C02
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0010
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 母板资源
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0C02\ISCLK
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0C02 | ACPI\PNP0C02 | *PNP0C02
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0014
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 系统计时器
+Manufacturer                 : (标准系统设备)
+InstanceId                   : ACPI\PNP0100\4&1482180&0
+DEVPKEY_Device_HardwareIds   : ACPI\VEN_PNP&DEV_0100 | ACPI\PNP0100 | *PNP0100
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0050
+DEVPKEY_Device_DriverVersion : 10.0.26100.9974
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : 英特尔® 智音技术 OED
+Manufacturer                         : Intel(R) Corporation
+InstanceId                           : INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043&REV_0001\4&3648C111&0&0800
+DEVPKEY_Device_HardwareIds           : INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043&REV_0001 | INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043
+DEVPKEY_Device_CompatibleIds         : INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&REV_0001 | INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222 | INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086 | INTELAUDIO\DSP_CTLR_DEV_51C8
+DEVPKEY_Device_BusReportedDeviceDesc : Intel High Definition DSP
+DEVPKEY_Device_LocationInfo          : HD Audio Bus Driver
+DEVPKEY_Device_Service               : IntcOED
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0061
+DEVPKEY_Device_DriverVersion         : 10.29.0.7767
+DEVPKEY_Device_DriverDate            : 2022/5/30 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : 英特尔® 智音技术检测验证
+Manufacturer                         : Intel(R) Corporation
+InstanceId                           : {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DETECTIONVERIFICATION\5&30FBD8AB&0&0
+DEVPKEY_Device_HardwareIds           : {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DetectionVerification
+DEVPKEY_Device_CompatibleIds         : 
+DEVPKEY_Device_BusReportedDeviceDesc : Detection Verification
+DEVPKEY_Device_LocationInfo          : Detection Notification
+DEVPKEY_Device_Service               : WUDFRd
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0062
+DEVPKEY_Device_DriverVersion         : 1.0.2251.0
+DEVPKEY_Device_DriverDate            : 2022/4/28 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                                : System
+Status                               : OK
+FriendlyName                         : 英特尔® 智音技术总线
+Manufacturer                         : Intel(R) Corporation
+InstanceId                           : PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01\3&11583659&0&FB
+DEVPKEY_Device_HardwareIds           : PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01 | PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043 | PCI\VEN_8086&DEV_51C8&CC_040380 | PCI\VEN_8086&DEV_51C8&CC_0403
+DEVPKEY_Device_CompatibleIds         : PCI\VEN_8086&DEV_51C8&REV_01 | PCI\VEN_8086&DEV_51C8 | PCI\VEN_8086&CC_040380 | PCI\VEN_8086&CC_0403 | PCI\VEN_8086 | PCI\CC_040380 | PCI\CC_0403
+DEVPKEY_Device_BusReportedDeviceDesc : PCI 设备
+DEVPKEY_Device_LocationInfo          : PCI 总线 0、设备 31、功能 3
+DEVPKEY_Device_Service               : IntcAudioBus
+DEVPKEY_Device_Driver                : {4d36e97d-e325-11ce-bfc1-08002be10318}\0043
+DEVPKEY_Device_DriverVersion         : 10.29.0.7767
+DEVPKEY_Device_DriverDate            : 2022/5/30 8:00:00
+DEVPKEY_Device_Class                 : System
+DEVPKEY_Device_ClassGuid             : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode           : 0
+DEVPKEY_Device_ContainerId           : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+Class                        : System
+Status                       : OK
+FriendlyName                 : 远程桌面设备重定向程序总线
+Manufacturer                 : Microsoft
+InstanceId                   : ROOT\RDPBUS\0000
+DEVPKEY_Device_HardwareIds   : ROOT\RDPBUS
+DEVPKEY_Device_Service       : rdpbus
+DEVPKEY_Device_Driver        : {4d36e97d-e325-11ce-bfc1-08002be10318}\0005
+DEVPKEY_Device_DriverVersion : 10.0.26100.9818
+DEVPKEY_Device_DriverDate    : 2006/6/21 8:00:00
+DEVPKEY_Device_Class         : System
+DEVPKEY_Device_ClassGuid     : {4D36E97D-E325-11CE-BFC1-08002BE10318}
+DEVPKEY_Device_ProblemCode   : 0
+DEVPKEY_Device_ContainerId   : {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+
+
+
+

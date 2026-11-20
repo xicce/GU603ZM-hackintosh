@@ -13,6 +13,3 @@ OC.zip
 
 # Local README drafts (final README lives on the repo)
 README.zh.md
-
-# Local audio diagnostic data (contains hostname, keep locally only)
-AudioInfo-*/

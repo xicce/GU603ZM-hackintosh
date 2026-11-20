@@ -1,0 +1,15 @@
+﻿
+
+Status       : OK
+Class        : AudioEndpoint
+FriendlyName : 扬声器 (Realtek(R) Audio)
+InstanceId   : SWD\MMDEVAPI\{0.0.0.00000000}.{69AABDA3-93C3-41EF-84CA-6708F04CA5F0}
+
+Status       : OK
+Class        : AudioEndpoint
+FriendlyName : Microphone Array (Realtek(R) Audio)
+InstanceId   : SWD\MMDEVAPI\{0.0.1.00000000}.{C1776E0C-1F8C-4316-BE18-F327FAD93B72}
+
+
+
+

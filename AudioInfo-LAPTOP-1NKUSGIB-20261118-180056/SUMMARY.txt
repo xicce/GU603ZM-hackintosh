@@ -1,0 +1,109 @@
+﻿输出目录: C:\Users\xicce\Desktop\AudioInfo-LAPTOP-1NKUSGIB-20261118-180056
+采集时间: 2026-11-18 18:02:31 +08:00
+管理员权限: System.Security.Principal.WindowsPrincipal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
+
+=== 声卡设备 ===
+
+Name                                                Manufacturer         Status ConfigManagerErrorCode
+----                                                ------------         ------ ----------------------
+Realtek High Definition Audio                       Realtek              OK                          0
+NVIDIA Virtual Audio Device (Wave Extensible) (WDM) NVIDIA               OK                          0
+适用于蓝牙® 音频的英特尔® 智音技术                                 Intel(R) Corporation OK                          0
+NVIDIA High Definition Audio                        NVIDIA               OK                          0
+适用于 USB 音频的英特尔® 智音技术                                Intel(R) Corporation OK                          0
+
+=== 关键 PnP 设备（摘要） ===
+
+Class             Status FriendlyName                                                 Manufacturer                     InstanceId                                                                                           
+-----             ------ ------------                                                 ------------                     ----------                                                                                           
+AudioEndpoint     OK     Microphone Array (Realtek(R) Audio)                          Microsoft                        SWD\MMDEVAPI\{0.0.1.00000000}.{C1776E0C-1F8C-4316-BE18-F327FAD93B72}                                 
+AudioEndpoint     OK     扬声器 (Realtek(R) Audio)                                       Microsoft                        SWD\MMDEVAPI\{0.0.0.00000000}.{69AABDA3-93C3-41EF-84CA-6708F04CA5F0}                                 
+Computer          OK     ASUSTeK COMPUTER INC. ROG Zephyrus M16 GU603ZM_GU603ZM       Microsoft                        SWD\COMPUTER\MFG_ASUSTEK_COMPUTER_INC.&FAM_ROG_ZEPHYRUS_M16&PROD_ROG_ZEPHYRUS_M16_GU603ZM_GU603ZM    
+Firmware          OK     ROG Zephyrus M16 UEFI                                        ASUSTeK COMPUTER INC.            UEFI\RES_{56F15EBB-73D5-5943-AF91-2DF677B685E4}\0                                                    
+HIDClass          OK     ASUS Precision Touchpad                                      ASUSTek COMPUTER INC.            HID\ASUE120D&COL02\5&301158AD&0&0001                                                                 
+HIDClass          OK     I2C HID 设备                                                   Microsoft                        ACPI\ASUE120D\1                                                                                      
+MEDIA             OK     Microsoft 流服务代理                                              Microsoft                        SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}                     
+MEDIA             OK     NVIDIA High Definition Audio                                 NVIDIA                           HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38F62B09&0&0001                         
+MEDIA             OK     NVIDIA Virtual Audio Device (Wave Extensible) (WDM)          NVIDIA                           ROOT\UNNAMED_DEVICE\0000                                                                             
+MEDIA             OK     Realtek(R) Audio                                             Realtek                          INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30FBD8AB&0&0001                      
+MEDIA             OK     适用于 USB 音频的英特尔® 智音技术                                         Intel(R) Corporation             INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001\0602      
+MEDIA             OK     适用于蓝牙® 音频的英特尔® 智音技术                                          Intel(R) Corporation             INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001\5&30FBD8AB
+                                                                                                                       &0&0000                                                                                              
+Net               OK     Realtek Gaming 2.5GbE Family Controller                      Realtek                          PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05\01000000684CE00000                                      
+Net               OK     WAN Miniport (SSTP)                                          Microsoft                        SWD\MSRRAS\MS_SSTPMINIPORT                                                                           
+SoftwareComponent OK     Realtek Asio Component                                       Realtek                          SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKASIO&6&2243D99&0                        
+SoftwareComponent OK     Realtek Audio Effects Component                              Realtek                          SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&2243D99&0                         
+SoftwareComponent OK     Realtek Audio Universal Service                              Realtek                          SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&2243D99&0                         
+SoftwareComponent OK     Realtek Hardware Support Application                         Realtek                          SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&2243D99&0                         
+System            OK     ACPI 处理器聚合器                                                  (标准系统设备)                         ACPI\ACPI000C\2&DABA3FF&0                                                                            
+System            OK     ACPI 电源按钮                                                    (标准系统设备)                         ACPI\PNP0C0C\2&DABA3FF&0                                                                             
+System            OK     ACPI 盖子                                                      (标准系统设备)                         ACPI\PNP0C0D\5&17CCA4AF&0                                                                            
+System            OK     ACPI 固定功能按钮                                                  (标准系统设备)                         ACPI\FIXEDBUTTON\2&DABA3FF&0                                                                         
+System            OK     ACPI 唤醒警报                                                    (标准系统设备)                         ACPI\ACPI000E\2&DABA3FF&0                                                                            
+System            OK     ACPI 热区域                                                     (标准系统设备)                         ACPI\THERMALZONE\THRM                                                                                
+System            OK     ACPI 睡眠按钮                                                    (标准系统设备)                         ACPI\PNP0C0E\2&DABA3FF&0                                                                             
+System            OK     Armoury Crate Control Interface                              ASUS                             ACPI\ASUS9001\2&DABA3FF&0                                                                            
+System            OK     ASUS System Control Interface v3                             ASUS                             ACPI\ASUS2018\2&DABA3FF&0                                                                            
+System            OK     FakerInput Device                                            Ryochan7                         ROOT\SYSTEM\0004                                                                                     
+System            OK     High Definition Audio 控制器                                    Microsoft                        PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1\4&356D80C2&0&0108                                       
+System            OK     Intel(R) GNA Scoring Accelerator module                      Intel Corporation                PCI\VEN_8086&DEV_464F&SUBSYS_1C621043&REV_02\3&11583659&0&40                                         
+System            OK     Intel(R) Host Bridge/DRAM Registers - 4641                   INTEL                            PCI\VEN_8086&DEV_4641&SUBSYS_1C621043&REV_02\3&11583659&0&00                                         
+System            OK     Intel(R) Innovation Platform Framework Generic Participant   Intel                            ACPI\INTC1046\SEN1                                                                                   
+System            OK     Intel(R) Innovation Platform Framework Generic Participant   Intel                            ACPI\INTC1046\SEN2                                                                                   
+System            OK     Intel(R) Innovation Platform Framework Generic Participant   Intel                            ACPI\INTC1046\SEN3                                                                                   
+System            OK     Intel(R) Innovation Platform Framework Generic Participant   Intel                            ACPI\INTC1046\SEN4                                                                                   
+System            OK     Intel(R) Innovation Platform Framework Manager               Intel                            ACPI\INTC1041\2&DABA3FF&0                                                                            
+System            OK     Intel(R) Innovation Platform Framework Processor Participant Intel                            PCI\VEN_8086&DEV_461D&SUBSYS_1C621043&REV_02\3&11583659&0&20                                         
+System            OK     Intel(R) LPC Controller - 5182                               INTEL                            PCI\VEN_8086&DEV_5182&SUBSYS_1C621043&REV_01\3&11583659&0&F8                                         
+System            OK     Intel(R) Management Engine Interface #1                      Intel                            PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043&REV_01\3&11583659&0&B0                                         
+System            OK     Intel(R) PCI Express Root Port #5 - 51BC                     INTEL                            PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043&REV_01\3&11583659&0&E0                                         
+System            OK     Intel(R) PCI Express Root Port #7 - 51BE                     INTEL                            PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043&REV_01\3&11583659&0&E6                                         
+System            OK     Intel(R) PEG10 - 460D                                        INTEL                            PCI\VEN_8086&DEV_460D&SUBSYS_1C621043&REV_02\3&11583659&0&08                                         
+System            OK     Intel(R) PEG60 - 464D                                        INTEL                            PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02\3&11583659&0&30                                         
+System            OK     Intel(R) Power Engine Plug-in                                Intel Corporation                ACPI\INT33A1\1                                                                                       
+System            OK     Intel(R) Serial IO GPIO Host Controller - INTC1055           Intel Corporation                ACPI\INTC1055\2&DABA3FF&0                                                                            
+System            OK     Intel(R) Serial IO I2C Host Controller - 51E8                Intel Corporation                PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01\3&11583659&0&A8                                         
+System            OK     Intel(R) Serial IO I2C Host Controller - 51E9                Intel Corporation                PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01\3&11583659&0&A9                                         
+System            OK     Intel(R) Shared SRAM - 51EF                                  INTEL                            PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043&REV_01\3&11583659&0&A2                                         
+System            OK     Intel(R) SMBus - 51A3                                        INTEL                            PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043&REV_01\3&11583659&0&FC                                         
+System            OK     Intel(R) SPI (flash) Controller - 51A4                       INTEL                            PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01\3&11583659&0&FD                                         
+System            OK     Intel(R) TypeC PCIe - 466E                                   INTEL                            PCI\VEN_8086&DEV_466E&SUBSYS_00000000&REV_02\3&11583659&0&38                                         
+System            OK     Intel(R) 平台监控技术驱动程序                                          Intel(R) 平台监控技术设备                PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01\3&11583659&0&50                                         
+System            OK     Microsoft ACPI 兼容的嵌入式控制器                                     (标准系统设备)                         ACPI\PNP0C09\4&1482180&0                                                                             
+System            OK     Microsoft ACPI-Compliant System                              Microsoft                        ACPI_HAL\PNP0C08\0                                                                                   
+System            OK     Microsoft Hyper-V 虚拟化基础结构驱动程序                                Microsoft                        ROOT\VID\0000                                                                                        
+System            OK     Microsoft System Management BIOS Driver                      (标准系统设备)                         ROOT\MSSMBIOS\0000                                                                                   
+System            OK     Microsoft UEFI 兼容系统                                          Microsoft                        ACPI_HAL\UEFI\0                                                                                      
+System            OK     Microsoft Windows Management Interface for ACPI              Microsoft                        ACPI\PNP0C14\ATK                                                                                     
+System            OK     Microsoft Windows Management Interface for ACPI              Microsoft                        ACPI\PNP0C14\DSARDEV                                                                                 
+System            OK     Microsoft Windows Management Interface for ACPI              Microsoft                        ACPI\PNP0C14\TESTDEV                                                                                 
+System            OK     Microsoft 基本呈现驱动程序                                           Microsoft                        ROOT\BASICRENDER\0000                                                                                
+System            OK     Microsoft 基本显示驱动程序                                           (标准显示器类型)                        ROOT\BASICDISPLAY\0000                                                                               
+System            OK     Microsoft 虚拟机监控程序服务                                          Microsoft                        ROOT\HVSERVICE\0000                                                                                  
+System            OK     Microsoft 虚拟驱动器枚举器                                           Microsoft                        ROOT\VDRVROOT\0000                                                                                   
+System            OK     NDIS 虚拟网络适配器枚举器                                              Microsoft                        ROOT\NDISVIRTUALBUS\0000                                                                             
+System            OK     Nefarius HidHide Device                                      Nefarius Software Solutions e.U. ROOT\SYSTEM\0003                                                                                     
+System            OK     Nefarius Virtual Gamepad Emulation Bus                       Nefarius Software Solutions e.U. ROOT\SYSTEM\0001                                                                                     
+System            OK     PCI Express 根复合体                                             (标准系统设备)                         ACPI\PNP0A08\0                                                                                       
+System            OK     UMBus Root Bus Enumerator                                    Microsoft                        ROOT\UMBUS\0000                                                                                      
+System            OK     UUYCInput HID                                                Netease                          ROOT\SYSTEM\0002                                                                                     
+System            OK     充电均衡驱动程序                                                     (标准系统设备)                         ROOT\CAD\0000                                                                                        
+System            OK     复合总线枚举器                                                      Microsoft                        ROOT\COMPOSITEBUS\0000                                                                               
+System            OK     高精度事件计时器                                                     (标准系统设备)                         ACPI\PNP0103\0                                                                                       
+System            OK     即插即用软件设备枚举器                                                  (标准系统设备)                         ROOT\SYSTEM\0000                                                                                     
+System            OK     卷管理器                                                         Microsoft                        ROOT\VOLMGR\0000                                                                                     
+System            OK     可编程中断控制器                                                     (标准系统设备)                         ACPI\PNP0000\4&1482180&0                                                                             
+System            OK     母板资源                                                         (标准系统设备)                         ACPI\INTC1099\4&1482180&0                                                                            
+System            OK     母板资源                                                         (标准系统设备)                         ACPI\PNP0C02\1                                                                                       
+System            OK     母板资源                                                         (标准系统设备)                         ACPI\PNP0C02\2                                                                                       
+System            OK     母板资源                                                         (标准系统设备)                         ACPI\PNP0C02\5                                                                                       
+System            OK     母板资源                                                         (标准系统设备)                         ACPI\PNP0C02\IOTRAPS                                                                                 
+System            OK     母板资源                                                         (标准系统设备)                         ACPI\PNP0C02\ISCLK                                                                                   
+System            OK     系统计时器                                                        (标准系统设备)                         ACPI\PNP0100\4&1482180&0                                                                             
+System            OK     英特尔® 智音技术 OED                                                Intel(R) Corporation             INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043&REV_0001\4&3648C111&0&0800            
+System            OK     英特尔® 智音技术检测验证                                                Intel(R) Corporation             {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DETECTIONVERIFICATION\5&30FBD8AB&0&0                          
+System            OK     英特尔® 智音技术总线                                                  Intel(R) Corporation             PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01\3&11583659&0&FB                                         
+System            OK     远程桌面设备重定向程序总线                                                Microsoft                        ROOT\RDPBUS\0000
+
+请优先回传: SUMMARY.txt、AUDIO_DEVICES.txt、PNP_AUDIO_RELATED.txt、PNP_PROPERTIES.txt、DRIVER_MATCHES.txt。
+如果方便，也可以直接压缩整个输出目录；其中没有主动采集 Windows 序列号。

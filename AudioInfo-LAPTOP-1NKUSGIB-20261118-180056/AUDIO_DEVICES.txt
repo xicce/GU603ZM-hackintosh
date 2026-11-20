@@ -1,0 +1,49 @@
+﻿
+
+Name                   : Realtek High Definition Audio
+Manufacturer           : Realtek
+Status                 : OK
+ConfigManagerErrorCode : 0
+PNPDeviceID            : INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30FBD8AB&0&0001
+DeviceID               : INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30FBD8AB&0&0001
+ClassGuid              : 
+
+Name                   : NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+Manufacturer           : NVIDIA
+Status                 : OK
+ConfigManagerErrorCode : 0
+PNPDeviceID            : ROOT\UNNAMED_DEVICE\0000
+DeviceID               : ROOT\UNNAMED_DEVICE\0000
+ClassGuid              : 
+
+Name                   : 适用于蓝牙® 音频的英特尔® 智音技术
+Manufacturer           : Intel(R) Corporation
+Status                 : OK
+ConfigManagerErrorCode : 0
+PNPDeviceID            : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001\5&3
+                         0FBD8AB&0&0000
+DeviceID               : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001\5&3
+                         0FBD8AB&0&0000
+ClassGuid              : 
+
+Name                   : NVIDIA High Definition Audio
+Manufacturer           : NVIDIA
+Status                 : OK
+ConfigManagerErrorCode : 0
+PNPDeviceID            : HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38F62B09&0&0001
+DeviceID               : HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38F62B09&0&0001
+ClassGuid              : 
+
+Name                   : 适用于 USB 音频的英特尔® 智音技术
+Manufacturer           : Intel(R) Corporation
+Status                 : OK
+ConfigManagerErrorCode : 0
+PNPDeviceID            : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001\060
+                         2
+DeviceID               : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001\060
+                         2
+ClassGuid              : 
+
+
+
+

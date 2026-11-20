@@ -1,0 +1,3138 @@
+﻿
+
+Class                       : AudioEndpoint
+FriendlyName                : Microphone Array (Realtek(R) Audio)
+InstanceId                  : SWD\MMDEVAPI\{0.0.1.00000000}.{C1776E0C-1F8C-4316-BE18-F327FAD93B72}
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microphone Array (Realtek(R) Audio)
+Description                 : 音频端点
+InstallDate                 : 
+Name                        : Microphone Array (Realtek(R) Audio)
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SWD\MMDEVAPI\{0.0.1.00000000}.{C1776E0C-1F8C-4316-BE18-F327FAD93B72}
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SWD\MMDEVAPI\{0.0.1.00000000}.{C1776E0C-1F8C-4316-BE18-F327FAD93B72}
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+CompatibleID                : {GenericAudioEndpoint, SWD\GenericRaw, SWD\Generic}
+HardwareID                  : {MMDEVAPI\AudioEndpoints}
+Manufacturer                : Microsoft
+PNPClass                    : AudioEndpoint
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : AudioEndpoint
+FriendlyName                : 扬声器 (Realtek(R) Audio)
+InstanceId                  : SWD\MMDEVAPI\{0.0.0.00000000}.{69AABDA3-93C3-41EF-84CA-6708F04CA5F0}
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 扬声器 (Realtek(R) Audio)
+Description                 : 音频端点
+InstallDate                 : 
+Name                        : 扬声器 (Realtek(R) Audio)
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SWD\MMDEVAPI\{0.0.0.00000000}.{69AABDA3-93C3-41EF-84CA-6708F04CA5F0}
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SWD\MMDEVAPI\{0.0.0.00000000}.{69AABDA3-93C3-41EF-84CA-6708F04CA5F0}
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+CompatibleID                : {GenericAudioEndpoint, SWD\GenericRaw, SWD\Generic}
+HardwareID                  : {MMDEVAPI\AudioEndpoints}
+Manufacturer                : Microsoft
+PNPClass                    : AudioEndpoint
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Computer
+FriendlyName                : ASUSTeK COMPUTER INC. ROG Zephyrus M16 GU603ZM_GU603ZM
+InstanceId                  : SWD\COMPUTER\MFG_ASUSTEK_COMPUTER_INC.&FAM_ROG_ZEPHYRUS_M16&PROD_ROG_ZEPHYRUS_M16_GU603ZM_GU603ZM
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ASUSTeK COMPUTER INC. ROG Zephyrus M16 GU603ZM_GU603ZM
+Description                 : 计算机设备
+InstallDate                 : 
+Name                        : ASUSTeK COMPUTER INC. ROG Zephyrus M16 GU603ZM_GU603ZM
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SWD\COMPUTER\MFG_ASUSTEK_COMPUTER_INC.&FAM_ROG_ZEPHYRUS_M16&PROD_ROG_ZEPHYRUS_M16_GU603ZM_GU603ZM
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SWD\COMPUTER\MFG_ASUSTEK_COMPUTER_INC.&FAM_ROG_ZEPHYRUS_M16&PROD_ROG_ZEPHYRUS_M16_GU603ZM_GU603ZM
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e966-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {COMPUTER\Generic, SWD\GenericRaw, SWD\Generic}
+HardwareID                  : {COMPUTER\{BFB77B68-D7F4-5EE6-BB0D-6276D493859B}, COMPUTER\{0F479CFC-2C28-580E-850B-0442EC3519E6}, COMPUTER\{98C1CFF3-5E15-5006-8886-71B4FD585A57}, COMPUTER\{068E3C50-BD0D-564B-8641-61640D129FBE}...}
+Manufacturer                : Microsoft
+PNPClass                    : Computer
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Firmware
+FriendlyName                : ROG Zephyrus M16 UEFI
+InstanceId                  : UEFI\RES_{56F15EBB-73D5-5943-AF91-2DF677B685E4}\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ROG Zephyrus M16 UEFI
+Description                 : ROG Zephyrus M16 UEFI
+InstallDate                 : 
+Name                        : ROG Zephyrus M16 UEFI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : UEFI\RES_{56F15EBB-73D5-5943-AF91-2DF677B685E4}\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : UEFI\RES_{56F15EBB-73D5-5943-AF91-2DF677B685E4}\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {f2e7dd72-6468-4e36-b6f1-6488f42c1b52}
+CompatibleID                : {UEFI\CC_00010001, GenFirmwareResource}
+HardwareID                  : {UEFI\RES_{56f15ebb-73d5-5943-af91-2df677b685e4}&REV_311, UEFI\RES_{56f15ebb-73d5-5943-af91-2df677b685e4}}
+Manufacturer                : ASUSTeK COMPUTER INC.
+PNPClass                    : Firmware
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : HIDClass
+FriendlyName                : ASUS Precision Touchpad
+InstanceId                  : HID\ASUE120D&COL02\5&301158AD&0&0001
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ASUS Precision Touchpad
+Description                 : ASUS Precision Touchpad
+InstallDate                 : 
+Name                        : ASUS Precision Touchpad
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : HID\ASUE120D&COL02\5&301158AD&0&0001
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : HID\ASUE120D&COL02\5&301158AD&0&0001
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+CompatibleID                : 
+HardwareID                  : {HID\VEN_ASUE&DEV_120D&Col02, HID\ASUE120D&Col02, HID\*ASUE120D&Col02, HID\VID_04F3&UP:000D_U:0005...}
+Manufacturer                : ASUSTek COMPUTER INC.
+PNPClass                    : HIDClass
+Present                     : True
+Service                     : AsusPTPDrv
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : HIDClass
+FriendlyName                : I2C HID 设备
+InstanceId                  : ACPI\ASUE120D\1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : I2C HID 设备
+Description                 : I2C HID 设备
+InstallDate                 : 
+Name                        : I2C HID 设备
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ASUE120D\1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ASUE120D\1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+CompatibleID                : {ACPI\PNP0C50, PNP0C50}
+HardwareID                  : {ACPI\VEN_ASUE&DEV_120D, ACPI\ASUE120D, *ASUE120D}
+Manufacturer                : Microsoft
+PNPClass                    : HIDClass
+Present                     : True
+Service                     : hidi2c
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : MEDIA
+FriendlyName                : Microsoft 流服务代理
+InstanceId                  : SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft 流服务代理
+Description                 : Microsoft 流服务代理
+InstallDate                 : 
+Name                        : Microsoft 流服务代理
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e96c-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {SW\{96E080C7-143C-11D1-B40F-00A0C9223196}}
+Manufacturer                : Microsoft
+PNPClass                    : MEDIA
+Present                     : True
+Service                     : MSKSSRV
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : MEDIA
+FriendlyName                : NVIDIA High Definition Audio
+InstanceId                  : HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38F62B09&0&0001
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : NVIDIA High Definition Audio
+Description                 : NVIDIA High Definition Audio
+InstallDate                 : 
+Name                        : NVIDIA High Definition Audio
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38F62B09&0&0001
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38F62B09&0&0001
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e96c-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {HDAUDIO\FUNC_01&CTLR_VEN_10DE&CTLR_DEV_228E&VEN_10DE&DEV_009F&REV_1001, HDAUDIO\FUNC_01&CTLR_VEN_10DE&VEN_10DE&DEV_009F&REV_1001, HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&REV_1001, HDAUDIO\FUNC_01&CTLR_VEN_10DE&CTLR_
+                              DEV_228E&VEN_10DE&DEV_009F...}
+HardwareID                  : {HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001, HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C}
+Manufacturer                : NVIDIA
+PNPClass                    : MEDIA
+Present                     : True
+Service                     : NVHDA
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : MEDIA
+FriendlyName                : NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+InstanceId                  : ROOT\UNNAMED_DEVICE\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+Description                 : NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+InstallDate                 : 
+Name                        : NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\UNNAMED_DEVICE\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\UNNAMED_DEVICE\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e96c-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {USB\VID_0955&PID_9000}
+Manufacturer                : NVIDIA
+PNPClass                    : MEDIA
+Present                     : True
+Service                     : nvvad_WaveExtensible
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : MEDIA
+FriendlyName                : Realtek(R) Audio
+InstanceId                  : INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30FBD8AB&0&0001
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Realtek(R) Audio
+Description                 : Realtek High Definition Audio
+InstallDate                 : 
+Name                        : Realtek(R) Audio
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30FBD8AB&0&0001
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30FBD8AB&0&0001
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e96c-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&REV_1000, INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285, INTELAUDIO\FUNC_01&VEN_10EC, INTELAUDIO\FUNC_01}
+HardwareID                  : {INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000, INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62}
+Manufacturer                : Realtek
+PNPClass                    : MEDIA
+Present                     : True
+Service                     : IntcAzAudAddService
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : MEDIA
+FriendlyName                : 适用于 USB 音频的英特尔® 智音技术
+InstanceId                  : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001\0602
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 适用于 USB 音频的英特尔® 智音技术
+Description                 : 适用于 USB 音频的英特尔® 智音技术
+InstallDate                 : 
+Name                        : 适用于 USB 音频的英特尔® 智音技术
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001\0602
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001\0602
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e96c-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&REV_0001, INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50, INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06}
+HardwareID                  : {INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001, INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043}
+Manufacturer                : Intel(R) Corporation
+PNPClass                    : MEDIA
+Present                     : True
+Service                     : IntcUSB
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : MEDIA
+FriendlyName                : 适用于蓝牙® 音频的英特尔® 智音技术
+InstanceId                  : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001\5&30FBD8AB&0&0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 适用于蓝牙® 音频的英特尔® 智音技术
+Description                 : 适用于蓝牙® 音频的英特尔® 智音技术
+InstallDate                 : 
+Name                        : 适用于蓝牙® 音频的英特尔® 智音技术
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001\5&30FBD8AB&0&0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001\5&30FBD8AB&0&0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e96c-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&REV_0001, INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30, INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00}
+HardwareID                  : {INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001, INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043}
+Manufacturer                : Intel(R) Corporation
+PNPClass                    : MEDIA
+Present                     : True
+Service                     : IntcBTAu
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Net
+FriendlyName                : Realtek Gaming 2.5GbE Family Controller
+InstanceId                  : PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05\01000000684CE00000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Realtek Gaming 2.5GbE Family Controller
+Description                 : Realtek Gaming 2.5GbE Family Controller
+InstallDate                 : 
+Name                        : Realtek Gaming 2.5GbE Family Controller
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05\01000000684CE00000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05\01000000684CE00000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e972-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_10EC&DEV_8125&REV_05, PCI\VEN_10EC&DEV_8125, PCI\VEN_10EC&CC_020000, PCI\VEN_10EC&CC_0200...}
+HardwareID                  : {PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05, PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043, PCI\VEN_10EC&DEV_8125&CC_020000, PCI\VEN_10EC&DEV_8125&CC_0200}
+Manufacturer                : Realtek
+PNPClass                    : Net
+Present                     : True
+Service                     : rt25cx21
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : Net
+FriendlyName                : WAN Miniport (SSTP)
+InstanceId                  : SWD\MSRRAS\MS_SSTPMINIPORT
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : WAN Miniport (SSTP)
+Description                 : WAN 微型端口(SSTP)
+InstallDate                 : 
+Name                        : WAN Miniport (SSTP)
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SWD\MSRRAS\MS_SSTPMINIPORT
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SWD\MSRRAS\MS_SSTPMINIPORT
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e972-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {SWD\Generic}
+HardwareID                  : {ms_sstpminiport}
+Manufacturer                : Microsoft
+PNPClass                    : Net
+Present                     : True
+Service                     : RasSstp
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : SoftwareComponent
+FriendlyName                : Realtek Asio Component
+InstanceId                  : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKASIO&6&2243D99&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Realtek Asio Component
+Description                 : Realtek Asio Component
+InstallDate                 : 
+Name                        : Realtek Asio Component
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKASIO&6&2243D99&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKASIO&6&2243D99&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {5c4c3332-344d-483c-8739-259e934c9cc8}
+CompatibleID                : {SWC\Generic, SWD\GenericRaw, SWD\Generic}
+HardwareID                  : {SWC\VEN_10EC&ASIO_ID_0001}
+Manufacturer                : Realtek
+PNPClass                    : SoftwareComponent
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : SoftwareComponent
+FriendlyName                : Realtek Audio Effects Component
+InstanceId                  : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&2243D99&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Realtek Audio Effects Component
+Description                 : Realtek Audio Effects Component
+InstallDate                 : 
+Name                        : Realtek Audio Effects Component
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&2243D99&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&2243D99&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {5c4c3332-344d-483c-8739-259e934c9cc8}
+CompatibleID                : {SWC\Generic, SWD\GenericRaw, SWD\Generic}
+HardwareID                  : {SWC\VEN_10EC&AID_0001}
+Manufacturer                : Realtek
+PNPClass                    : SoftwareComponent
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : SoftwareComponent
+FriendlyName                : Realtek Audio Universal Service
+InstanceId                  : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&2243D99&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Realtek Audio Universal Service
+Description                 : Realtek Audio Universal Service
+InstallDate                 : 
+Name                        : Realtek Audio Universal Service
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&2243D99&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&2243D99&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {5c4c3332-344d-483c-8739-259e934c9cc8}
+CompatibleID                : {SWC\Generic, SWD\GenericRaw, SWD\Generic}
+HardwareID                  : {SWC\VEN_10EC&SID_0001}
+Manufacturer                : Realtek
+PNPClass                    : SoftwareComponent
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : SoftwareComponent
+FriendlyName                : Realtek Hardware Support Application
+InstanceId                  : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&2243D99&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Realtek Hardware Support Application
+Description                 : Realtek Hardware Support Application
+InstallDate                 : 
+Name                        : Realtek Hardware Support Application
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&2243D99&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&2243D99&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {5c4c3332-344d-483c-8739-259e934c9cc8}
+CompatibleID                : {SWC\Generic, SWD\GenericRaw, SWD\Generic}
+HardwareID                  : {SWC\VEN_10EC&HID_0001}
+Manufacturer                : Realtek
+PNPClass                    : SoftwareComponent
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ACPI 处理器聚合器
+InstanceId                  : ACPI\ACPI000C\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ACPI 处理器聚合器
+Description                 : ACPI 处理器聚合器
+InstallDate                 : 
+Name                        : ACPI 处理器聚合器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ACPI000C\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ACPI000C\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_ACPI&DEV_000C, ACPI\ACPI000C, *ACPI000C}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : acpipagr
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ACPI 电源按钮
+InstanceId                  : ACPI\PNP0C0C\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ACPI 电源按钮
+Description                 : ACPI 电源按钮
+InstallDate                 : 
+Name                        : ACPI 电源按钮
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C0C\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C0C\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C0C, ACPI\PNP0C0C, *PNP0C0C}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ACPI 盖子
+InstanceId                  : ACPI\PNP0C0D\5&17CCA4AF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ACPI 盖子
+Description                 : ACPI 盖子
+InstallDate                 : 
+Name                        : ACPI 盖子
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C0D\5&17CCA4AF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C0D\5&17CCA4AF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C0D, ACPI\PNP0C0D, *PNP0C0D}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ACPI 固定功能按钮
+InstanceId                  : ACPI\FIXEDBUTTON\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ACPI 固定功能按钮
+Description                 : ACPI 固定功能按钮
+InstallDate                 : 
+Name                        : ACPI 固定功能按钮
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\FIXEDBUTTON\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\FIXEDBUTTON\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\FixedButton, *FixedButton}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ACPI 唤醒警报
+InstanceId                  : ACPI\ACPI000E\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ACPI 唤醒警报
+Description                 : ACPI 唤醒警报
+InstallDate                 : 
+Name                        : ACPI 唤醒警报
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ACPI000E\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ACPI000E\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_ACPI&DEV_000E, ACPI\ACPI000E, *ACPI000E}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : acpitime
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ACPI 热区域
+InstanceId                  : ACPI\THERMALZONE\THRM
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ACPI 热区域
+Description                 : ACPI 热区域
+InstallDate                 : 
+Name                        : ACPI 热区域
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\THERMALZONE\THRM
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\THERMALZONE\THRM
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\ThermalZone, *ThermalZone}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ACPI 睡眠按钮
+InstanceId                  : ACPI\PNP0C0E\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ACPI 睡眠按钮
+Description                 : ACPI 睡眠按钮
+InstallDate                 : 
+Name                        : ACPI 睡眠按钮
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C0E\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C0E\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C0E, ACPI\PNP0C0E, *PNP0C0E}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Armoury Crate Control Interface
+InstanceId                  : ACPI\ASUS9001\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Armoury Crate Control Interface
+Description                 : Armoury Crate Control Interface
+InstallDate                 : 
+Name                        : Armoury Crate Control Interface
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ASUS9001\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ASUS9001\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_ASUS&DEV_9001, ACPI\ASUS9001, *ASUS9001}
+Manufacturer                : ASUS
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : ASUS System Control Interface v3
+InstanceId                  : ACPI\ASUS2018\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : ASUS System Control Interface v3
+Description                 : ASUS System Control Interface v3
+InstallDate                 : 
+Name                        : ASUS System Control Interface v3
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\ASUS2018\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\ASUS2018\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_ASUS&DEV_2018, ACPI\ASUS2018, *ASUS2018}
+Manufacturer                : ASUS
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : FakerInput Device
+InstanceId                  : ROOT\SYSTEM\0004
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : FakerInput Device
+Description                 : FakerInput Device
+InstallDate                 : 
+Name                        : FakerInput Device
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\SYSTEM\0004
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\SYSTEM\0004
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {root\FakerInput}
+Manufacturer                : Ryochan7
+PNPClass                    : System
+Present                     : True
+Service                     : mshidumdf
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : High Definition Audio 控制器
+InstanceId                  : PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1\4&356D80C2&0&0108
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : High Definition Audio 控制器
+Description                 : High Definition Audio 控制器
+InstallDate                 : 
+Name                        : High Definition Audio 控制器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1\4&356D80C2&0&0108
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1\4&356D80C2&0&0108
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_10DE&DEV_228E&REV_A1, PCI\VEN_10DE&DEV_228E, PCI\VEN_10DE&CC_040300, PCI\VEN_10DE&CC_0403...}
+HardwareID                  : {PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1, PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043, PCI\VEN_10DE&DEV_228E&CC_040300, PCI\VEN_10DE&DEV_228E&CC_0403}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : HDAudBus
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) GNA Scoring Accelerator module
+InstanceId                  : PCI\VEN_8086&DEV_464F&SUBSYS_1C621043&REV_02\3&11583659&0&40
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) GNA Scoring Accelerator module
+Description                 : Intel(R) GNA Scoring Accelerator module
+InstallDate                 : 
+Name                        : Intel(R) GNA Scoring Accelerator module
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_464F&SUBSYS_1C621043&REV_02\3&11583659&0&40
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_464F&SUBSYS_1C621043&REV_02\3&11583659&0&40
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_464F&REV_02, PCI\VEN_8086&DEV_464F, PCI\VEN_8086&CC_088000, PCI\VEN_8086&CC_0880...}
+HardwareID                  : {PCI\VEN_8086&DEV_464F&SUBSYS_1C621043&REV_02, PCI\VEN_8086&DEV_464F&SUBSYS_1C621043, PCI\VEN_8086&DEV_464F&CC_088000, PCI\VEN_8086&DEV_464F&CC_0880}
+Manufacturer                : Intel Corporation
+PNPClass                    : System
+Present                     : True
+Service                     : IntelGNA
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Host Bridge/DRAM Registers - 4641
+InstanceId                  : PCI\VEN_8086&DEV_4641&SUBSYS_1C621043&REV_02\3&11583659&0&00
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Host Bridge/DRAM Registers - 4641
+Description                 : Intel(R) Host Bridge/DRAM Registers - 4641
+InstallDate                 : 
+Name                        : Intel(R) Host Bridge/DRAM Registers - 4641
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_4641&SUBSYS_1C621043&REV_02\3&11583659&0&00
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_4641&SUBSYS_1C621043&REV_02\3&11583659&0&00
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_4641&REV_02, PCI\VEN_8086&DEV_4641, PCI\VEN_8086&CC_060000, PCI\VEN_8086&CC_0600...}
+HardwareID                  : {PCI\VEN_8086&DEV_4641&SUBSYS_1C621043&REV_02, PCI\VEN_8086&DEV_4641&SUBSYS_1C621043, PCI\VEN_8086&DEV_4641&CC_060000, PCI\VEN_8086&DEV_4641&CC_0600}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Innovation Platform Framework Generic Participant
+InstanceId                  : ACPI\INTC1046\SEN1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Innovation Platform Framework Generic Participant
+Description                 : Intel(R) Innovation Platform Framework Generic Participant
+InstallDate                 : 
+Name                        : Intel(R) Innovation Platform Framework Generic Participant
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\INTC1046\SEN1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\INTC1046\SEN1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_INTC&DEV_1046, ACPI\INTC1046, *INTC1046}
+Manufacturer                : Intel
+PNPClass                    : System
+Present                     : True
+Service                     : ipf_acpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Innovation Platform Framework Generic Participant
+InstanceId                  : ACPI\INTC1046\SEN2
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Innovation Platform Framework Generic Participant
+Description                 : Intel(R) Innovation Platform Framework Generic Participant
+InstallDate                 : 
+Name                        : Intel(R) Innovation Platform Framework Generic Participant
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\INTC1046\SEN2
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\INTC1046\SEN2
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_INTC&DEV_1046, ACPI\INTC1046, *INTC1046}
+Manufacturer                : Intel
+PNPClass                    : System
+Present                     : True
+Service                     : ipf_acpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Innovation Platform Framework Generic Participant
+InstanceId                  : ACPI\INTC1046\SEN3
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Innovation Platform Framework Generic Participant
+Description                 : Intel(R) Innovation Platform Framework Generic Participant
+InstallDate                 : 
+Name                        : Intel(R) Innovation Platform Framework Generic Participant
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\INTC1046\SEN3
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\INTC1046\SEN3
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_INTC&DEV_1046, ACPI\INTC1046, *INTC1046}
+Manufacturer                : Intel
+PNPClass                    : System
+Present                     : True
+Service                     : ipf_acpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Innovation Platform Framework Generic Participant
+InstanceId                  : ACPI\INTC1046\SEN4
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Innovation Platform Framework Generic Participant
+Description                 : Intel(R) Innovation Platform Framework Generic Participant
+InstallDate                 : 
+Name                        : Intel(R) Innovation Platform Framework Generic Participant
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\INTC1046\SEN4
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\INTC1046\SEN4
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_INTC&DEV_1046, ACPI\INTC1046, *INTC1046}
+Manufacturer                : Intel
+PNPClass                    : System
+Present                     : True
+Service                     : ipf_acpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Innovation Platform Framework Manager
+InstanceId                  : ACPI\INTC1041\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Innovation Platform Framework Manager
+Description                 : Intel(R) Innovation Platform Framework Manager
+InstallDate                 : 
+Name                        : Intel(R) Innovation Platform Framework Manager
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\INTC1041\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\INTC1041\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_INTC&DEV_1041, ACPI\INTC1041, *INTC1041}
+Manufacturer                : Intel
+PNPClass                    : System
+Present                     : True
+Service                     : ipf_acpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Innovation Platform Framework Processor Participant
+InstanceId                  : PCI\VEN_8086&DEV_461D&SUBSYS_1C621043&REV_02\3&11583659&0&20
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Innovation Platform Framework Processor Participant
+Description                 : Intel(R) Innovation Platform Framework Processor Participant
+InstallDate                 : 
+Name                        : Intel(R) Innovation Platform Framework Processor Participant
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_461D&SUBSYS_1C621043&REV_02\3&11583659&0&20
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_461D&SUBSYS_1C621043&REV_02\3&11583659&0&20
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_461D&REV_02, PCI\VEN_8086&DEV_461D, PCI\VEN_8086&CC_118000, PCI\VEN_8086&CC_1180...}
+HardwareID                  : {PCI\VEN_8086&DEV_461D&SUBSYS_1C621043&REV_02, PCI\VEN_8086&DEV_461D&SUBSYS_1C621043, PCI\VEN_8086&DEV_461D&CC_118000, PCI\VEN_8086&DEV_461D&CC_1180}
+Manufacturer                : Intel
+PNPClass                    : System
+Present                     : True
+Service                     : ipf_cpu
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) LPC Controller - 5182
+InstanceId                  : PCI\VEN_8086&DEV_5182&SUBSYS_1C621043&REV_01\3&11583659&0&F8
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) LPC Controller - 5182
+Description                 : Intel(R) LPC Controller - 5182
+InstallDate                 : 
+Name                        : Intel(R) LPC Controller - 5182
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_5182&SUBSYS_1C621043&REV_01\3&11583659&0&F8
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_5182&SUBSYS_1C621043&REV_01\3&11583659&0&F8
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_5182&REV_01, PCI\VEN_8086&DEV_5182, PCI\VEN_8086&CC_060100, PCI\VEN_8086&CC_0601...}
+HardwareID                  : {PCI\VEN_8086&DEV_5182&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_5182&SUBSYS_1C621043, PCI\VEN_8086&DEV_5182&CC_060100, PCI\VEN_8086&DEV_5182&CC_0601}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : msisadrv
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Management Engine Interface #1
+InstanceId                  : PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043&REV_01\3&11583659&0&B0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Management Engine Interface #1
+Description                 : Intel(R) Management Engine Interface #1
+InstallDate                 : 
+Name                        : Intel(R) Management Engine Interface #1
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043&REV_01\3&11583659&0&B0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043&REV_01\3&11583659&0&B0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51E0&REV_01, PCI\VEN_8086&DEV_51E0, PCI\VEN_8086&CC_078000, PCI\VEN_8086&CC_0780...}
+HardwareID                  : {PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043, PCI\VEN_8086&DEV_51E0&CC_078000, PCI\VEN_8086&DEV_51E0&CC_0780}
+Manufacturer                : Intel
+PNPClass                    : System
+Present                     : True
+Service                     : MEIx64
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) PCI Express Root Port #5 - 51BC
+InstanceId                  : PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043&REV_01\3&11583659&0&E0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) PCI Express Root Port #5 - 51BC
+Description                 : Intel(R) PCI Express Root Port #5 - 51BC
+InstallDate                 : 
+Name                        : Intel(R) PCI Express Root Port #5 - 51BC
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043&REV_01\3&11583659&0&E0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043&REV_01\3&11583659&0&E0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51BC&REV_01, PCI\VEN_8086&DEV_51BC, PCI\VEN_8086&CC_060400, PCI\VEN_8086&CC_0604...}
+HardwareID                  : {PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043, PCI\VEN_8086&DEV_51BC&CC_060400, PCI\VEN_8086&DEV_51BC&CC_0604}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) PCI Express Root Port #7 - 51BE
+InstanceId                  : PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043&REV_01\3&11583659&0&E6
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) PCI Express Root Port #7 - 51BE
+Description                 : Intel(R) PCI Express Root Port #7 - 51BE
+InstallDate                 : 
+Name                        : Intel(R) PCI Express Root Port #7 - 51BE
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043&REV_01\3&11583659&0&E6
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043&REV_01\3&11583659&0&E6
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51BE&REV_01, PCI\VEN_8086&DEV_51BE, PCI\VEN_8086&CC_060400, PCI\VEN_8086&CC_0604...}
+HardwareID                  : {PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043, PCI\VEN_8086&DEV_51BE&CC_060400, PCI\VEN_8086&DEV_51BE&CC_0604}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) PEG10 - 460D
+InstanceId                  : PCI\VEN_8086&DEV_460D&SUBSYS_1C621043&REV_02\3&11583659&0&08
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) PEG10 - 460D
+Description                 : Intel(R) PEG10 - 460D
+InstallDate                 : 
+Name                        : Intel(R) PEG10 - 460D
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_460D&SUBSYS_1C621043&REV_02\3&11583659&0&08
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_460D&SUBSYS_1C621043&REV_02\3&11583659&0&08
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_460D&REV_02, PCI\VEN_8086&DEV_460D, PCI\VEN_8086&CC_060400, PCI\VEN_8086&CC_0604...}
+HardwareID                  : {PCI\VEN_8086&DEV_460D&SUBSYS_1C621043&REV_02, PCI\VEN_8086&DEV_460D&SUBSYS_1C621043, PCI\VEN_8086&DEV_460D&CC_060400, PCI\VEN_8086&DEV_460D&CC_0604}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) PEG60 - 464D
+InstanceId                  : PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02\3&11583659&0&30
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) PEG60 - 464D
+Description                 : Intel(R) PEG60 - 464D
+InstallDate                 : 
+Name                        : Intel(R) PEG60 - 464D
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02\3&11583659&0&30
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02\3&11583659&0&30
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&CC_060400, PCI\VEN_8086&CC_0604, PCI\VEN_8086, PCI\CC_060400&DT_4...}
+HardwareID                  : {PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02, PCI\VEN_8086&DEV_464D&SUBSYS_00000000, PCI\VEN_8086&DEV_464D&REV_02, PCI\VEN_8086&DEV_464D...}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Power Engine Plug-in
+InstanceId                  : ACPI\INT33A1\1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Power Engine Plug-in
+Description                 : Intel(R) Power Engine Plug-in
+InstallDate                 : 
+Name                        : Intel(R) Power Engine Plug-in
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\INT33A1\1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\INT33A1\1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {*PNP0D80}
+HardwareID                  : {ACPI\VEN_INT&DEV_33A1, ACPI\INT33A1, *INT33A1}
+Manufacturer                : Intel Corporation
+PNPClass                    : System
+Present                     : True
+Service                     : intelpep
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Serial IO GPIO Host Controller - INTC1055
+InstanceId                  : ACPI\INTC1055\2&DABA3FF&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Serial IO GPIO Host Controller - INTC1055
+Description                 : Intel(R) Serial IO GPIO Host Controller - INTC1055
+InstallDate                 : 
+Name                        : Intel(R) Serial IO GPIO Host Controller - INTC1055
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\INTC1055\2&DABA3FF&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\INTC1055\2&DABA3FF&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_INTC&DEV_1055, ACPI\INTC1055, *INTC1055}
+Manufacturer                : Intel Corporation
+PNPClass                    : System
+Present                     : True
+Service                     : iaLPSS2_GPIO2_ADL
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Serial IO I2C Host Controller - 51E8
+InstanceId                  : PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01\3&11583659&0&A8
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Serial IO I2C Host Controller - 51E8
+Description                 : Intel(R) Serial IO I2C Host Controller - 51E8
+InstallDate                 : 
+Name                        : Intel(R) Serial IO I2C Host Controller - 51E8
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01\3&11583659&0&A8
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01\3&11583659&0&A8
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51E8&REV_01, PCI\VEN_8086&DEV_51E8, PCI\VEN_8086&CC_0C8000, PCI\VEN_8086&CC_0C80...}
+HardwareID                  : {PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043, PCI\VEN_8086&DEV_51E8&CC_0C8000, PCI\VEN_8086&DEV_51E8&CC_0C80}
+Manufacturer                : Intel Corporation
+PNPClass                    : System
+Present                     : True
+Service                     : iaLPSS2_I2C_ADL
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Serial IO I2C Host Controller - 51E9
+InstanceId                  : PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01\3&11583659&0&A9
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Serial IO I2C Host Controller - 51E9
+Description                 : Intel(R) Serial IO I2C Host Controller - 51E9
+InstallDate                 : 
+Name                        : Intel(R) Serial IO I2C Host Controller - 51E9
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01\3&11583659&0&A9
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01\3&11583659&0&A9
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51E9&REV_01, PCI\VEN_8086&DEV_51E9, PCI\VEN_8086&CC_0C8000, PCI\VEN_8086&CC_0C80...}
+HardwareID                  : {PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043, PCI\VEN_8086&DEV_51E9&CC_0C8000, PCI\VEN_8086&DEV_51E9&CC_0C80}
+Manufacturer                : Intel Corporation
+PNPClass                    : System
+Present                     : True
+Service                     : iaLPSS2_I2C_ADL
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) Shared SRAM - 51EF
+InstanceId                  : PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043&REV_01\3&11583659&0&A2
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) Shared SRAM - 51EF
+Description                 : Intel(R) Shared SRAM - 51EF
+InstallDate                 : 
+Name                        : Intel(R) Shared SRAM - 51EF
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043&REV_01\3&11583659&0&A2
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043&REV_01\3&11583659&0&A2
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51EF&REV_01, PCI\VEN_8086&DEV_51EF, PCI\VEN_8086&CC_050000, PCI\VEN_8086&CC_0500...}
+HardwareID                  : {PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043, PCI\VEN_8086&DEV_51EF&CC_050000, PCI\VEN_8086&DEV_51EF&CC_0500}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) SMBus - 51A3
+InstanceId                  : PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043&REV_01\3&11583659&0&FC
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) SMBus - 51A3
+Description                 : Intel(R) SMBus - 51A3
+InstallDate                 : 
+Name                        : Intel(R) SMBus - 51A3
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043&REV_01\3&11583659&0&FC
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043&REV_01\3&11583659&0&FC
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51A3&REV_01, PCI\VEN_8086&DEV_51A3, PCI\VEN_8086&CC_0C0500, PCI\VEN_8086&CC_0C05...}
+HardwareID                  : {PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043, PCI\VEN_8086&DEV_51A3&CC_0C0500, PCI\VEN_8086&DEV_51A3&CC_0C05}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) SPI (flash) Controller - 51A4
+InstanceId                  : PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01\3&11583659&0&FD
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) SPI (flash) Controller - 51A4
+Description                 : Intel(R) SPI (flash) Controller - 51A4
+InstallDate                 : 
+Name                        : Intel(R) SPI (flash) Controller - 51A4
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01\3&11583659&0&FD
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01\3&11583659&0&FD
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51A4&REV_01, PCI\VEN_8086&DEV_51A4, PCI\VEN_8086&CC_0C8000, PCI\VEN_8086&CC_0C80...}
+HardwareID                  : {PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043, PCI\VEN_8086&DEV_51A4&CC_0C8000, PCI\VEN_8086&DEV_51A4&CC_0C80}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) TypeC PCIe - 466E
+InstanceId                  : PCI\VEN_8086&DEV_466E&SUBSYS_00000000&REV_02\3&11583659&0&38
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) TypeC PCIe - 466E
+Description                 : Intel(R) TypeC PCIe - 466E
+InstallDate                 : 
+Name                        : Intel(R) TypeC PCIe - 466E
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_466E&SUBSYS_00000000&REV_02\3&11583659&0&38
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_466E&SUBSYS_00000000&REV_02\3&11583659&0&38
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&CC_060400, PCI\VEN_8086&CC_0604, PCI\VEN_8086, PCI\CC_060400&DT_4...}
+HardwareID                  : {PCI\VEN_8086&DEV_466E&SUBSYS_00000000&REV_02, PCI\VEN_8086&DEV_466E&SUBSYS_00000000, PCI\VEN_8086&DEV_466E&REV_02, PCI\VEN_8086&DEV_466E...}
+Manufacturer                : INTEL
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Intel(R) 平台监控技术驱动程序
+InstanceId                  : PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01\3&11583659&0&50
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Intel(R) 平台监控技术驱动程序
+Description                 : Intel(R) 平台监控技术驱动程序
+InstallDate                 : 
+Name                        : Intel(R) 平台监控技术驱动程序
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01\3&11583659&0&50
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01\3&11583659&0&50
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&CC_118000, PCI\VEN_8086&CC_1180, PCI\VEN_8086, PCI\CC_118000&DT_9...}
+HardwareID                  : {PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01, PCI\VEN_8086&DEV_467D&SUBSYS_00000000, PCI\VEN_8086&DEV_467D&REV_01, PCI\VEN_8086&DEV_467D...}
+Manufacturer                : Intel(R) 平台监控技术设备
+PNPClass                    : System
+Present                     : True
+Service                     : IntelPMT
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft ACPI 兼容的嵌入式控制器
+InstanceId                  : ACPI\PNP0C09\4&1482180&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft ACPI 兼容的嵌入式控制器
+Description                 : Microsoft ACPI 兼容的嵌入式控制器
+InstallDate                 : 
+Name                        : Microsoft ACPI 兼容的嵌入式控制器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C09\4&1482180&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C09\4&1482180&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C09, ACPI\PNP0C09, *PNP0C09}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft ACPI-Compliant System
+InstanceId                  : ACPI_HAL\PNP0C08\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft ACPI-Compliant System
+Description                 : Microsoft ACPI-Compliant System
+InstallDate                 : 
+Name                        : Microsoft ACPI-Compliant System
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI_HAL\PNP0C08\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI_HAL\PNP0C08\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI_HAL\PNP0C08, *PNP0C08}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : ACPI
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft Hyper-V 虚拟化基础结构驱动程序
+InstanceId                  : ROOT\VID\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft Hyper-V 虚拟化基础结构驱动程序
+Description                 : Microsoft Hyper-V 虚拟化基础结构驱动程序
+InstallDate                 : 
+Name                        : Microsoft Hyper-V 虚拟化基础结构驱动程序
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\VID\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\VID\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\VID}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : Vid
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft System Management BIOS Driver
+InstanceId                  : ROOT\MSSMBIOS\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft System Management BIOS Driver
+Description                 : Microsoft System Management BIOS Driver
+InstallDate                 : 
+Name                        : Microsoft System Management BIOS Driver
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\MSSMBIOS\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\MSSMBIOS\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\mssmbios}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : mssmbios
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft UEFI 兼容系统
+InstanceId                  : ACPI_HAL\UEFI\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft UEFI 兼容系统
+Description                 : Microsoft UEFI 兼容系统
+InstallDate                 : 
+Name                        : Microsoft UEFI 兼容系统
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI_HAL\UEFI\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI_HAL\UEFI\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI_HAL\UEFI}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : UEFI
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft Windows Management Interface for ACPI
+InstanceId                  : ACPI\PNP0C14\ATK
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft Windows Management Interface for ACPI
+Description                 : Microsoft Windows Management Interface for ACPI
+InstallDate                 : 
+Name                        : Microsoft Windows Management Interface for ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C14\ATK
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C14\ATK
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C14, ACPI\PNP0C14, *PNP0C14}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : WmiAcpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft Windows Management Interface for ACPI
+InstanceId                  : ACPI\PNP0C14\DSARDEV
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft Windows Management Interface for ACPI
+Description                 : Microsoft Windows Management Interface for ACPI
+InstallDate                 : 
+Name                        : Microsoft Windows Management Interface for ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C14\DSARDEV
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C14\DSARDEV
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C14, ACPI\PNP0C14, *PNP0C14}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : WmiAcpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft Windows Management Interface for ACPI
+InstanceId                  : ACPI\PNP0C14\TESTDEV
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft Windows Management Interface for ACPI
+Description                 : Microsoft Windows Management Interface for ACPI
+InstallDate                 : 
+Name                        : Microsoft Windows Management Interface for ACPI
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C14\TESTDEV
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C14\TESTDEV
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C14, ACPI\PNP0C14, *PNP0C14}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : WmiAcpi
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft 基本呈现驱动程序
+InstanceId                  : ROOT\BASICRENDER\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft 基本呈现驱动程序
+Description                 : Microsoft 基本呈现驱动程序
+InstallDate                 : 
+Name                        : Microsoft 基本呈现驱动程序
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\BASICRENDER\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\BASICRENDER\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\BasicRender}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : BasicRender
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft 基本显示驱动程序
+InstanceId                  : ROOT\BASICDISPLAY\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft 基本显示驱动程序
+Description                 : Microsoft 基本显示驱动程序
+InstallDate                 : 
+Name                        : Microsoft 基本显示驱动程序
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\BASICDISPLAY\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\BASICDISPLAY\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\BasicDisplay}
+Manufacturer                : (标准显示器类型)
+PNPClass                    : System
+Present                     : True
+Service                     : BasicDisplay
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft 虚拟机监控程序服务
+InstanceId                  : ROOT\HVSERVICE\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft 虚拟机监控程序服务
+Description                 : Microsoft 虚拟机监控程序服务
+InstallDate                 : 
+Name                        : Microsoft 虚拟机监控程序服务
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\HVSERVICE\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\HVSERVICE\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\hvservice}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : hvservice
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Microsoft 虚拟驱动器枚举器
+InstanceId                  : ROOT\VDRVROOT\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Microsoft 虚拟驱动器枚举器
+Description                 : Microsoft 虚拟驱动器枚举器
+InstallDate                 : 
+Name                        : Microsoft 虚拟驱动器枚举器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\VDRVROOT\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\VDRVROOT\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\vdrvroot}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : vdrvroot
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : NDIS 虚拟网络适配器枚举器
+InstanceId                  : ROOT\NDISVIRTUALBUS\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : NDIS 虚拟网络适配器枚举器
+Description                 : NDIS 虚拟网络适配器枚举器
+InstallDate                 : 
+Name                        : NDIS 虚拟网络适配器枚举器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\NDISVIRTUALBUS\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\NDISVIRTUALBUS\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\NdisVirtualBus}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : NdisVirtualBus
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Nefarius HidHide Device
+InstanceId                  : ROOT\SYSTEM\0003
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Nefarius HidHide Device
+Description                 : Nefarius HidHide Device
+InstallDate                 : 
+Name                        : Nefarius HidHide Device
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\SYSTEM\0003
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\SYSTEM\0003
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {root\HidHide}
+Manufacturer                : Nefarius Software Solutions e.U.
+PNPClass                    : System
+Present                     : True
+Service                     : HidHide
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : Nefarius Virtual Gamepad Emulation Bus
+InstanceId                  : ROOT\SYSTEM\0001
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : Nefarius Virtual Gamepad Emulation Bus
+Description                 : Nefarius Virtual Gamepad Emulation Bus
+InstallDate                 : 
+Name                        : Nefarius Virtual Gamepad Emulation Bus
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\SYSTEM\0001
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\SYSTEM\0001
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {Nefarius\ViGEmBus\Gen1}
+Manufacturer                : Nefarius Software Solutions e.U.
+PNPClass                    : System
+Present                     : True
+Service                     : ViGEmBus
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : PCI Express 根复合体
+InstanceId                  : ACPI\PNP0A08\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : PCI Express 根复合体
+Description                 : PCI Express 根复合体
+InstallDate                 : 
+Name                        : PCI Express 根复合体
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0A08\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0A08\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {*PNP0A03}
+HardwareID                  : {ACPI\VEN_PNP&DEV_0A08, ACPI\PNP0A08, *PNP0A08}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : pci
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : UMBus Root Bus Enumerator
+InstanceId                  : ROOT\UMBUS\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : UMBus Root Bus Enumerator
+Description                 : UMBus Root Bus Enumerator
+InstallDate                 : 
+Name                        : UMBus Root Bus Enumerator
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\UMBUS\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\UMBUS\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {root\umbus}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : umbus
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : UUYCInput HID
+InstanceId                  : ROOT\SYSTEM\0002
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : UUYCInput HID
+Description                 : UUYCInput HID
+InstallDate                 : 
+Name                        : UUYCInput HID
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\SYSTEM\0002
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\SYSTEM\0002
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {netease\uuycinput}
+Manufacturer                : Netease
+PNPClass                    : System
+Present                     : True
+Service                     : uuycinput
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 充电均衡驱动程序
+InstanceId                  : ROOT\CAD\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 充电均衡驱动程序
+Description                 : 充电均衡驱动程序
+InstallDate                 : 
+Name                        : 充电均衡驱动程序
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\CAD\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\CAD\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\CAD}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : CAD
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 复合总线枚举器
+InstanceId                  : ROOT\COMPOSITEBUS\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 复合总线枚举器
+Description                 : 复合总线枚举器
+InstallDate                 : 
+Name                        : 复合总线枚举器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\COMPOSITEBUS\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\COMPOSITEBUS\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\CompositeBus}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : CompositeBus
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 高精度事件计时器
+InstanceId                  : ACPI\PNP0103\0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 高精度事件计时器
+Description                 : 高精度事件计时器
+InstallDate                 : 
+Name                        : 高精度事件计时器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0103\0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0103\0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0103, ACPI\PNP0103, *PNP0103}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 即插即用软件设备枚举器
+InstanceId                  : ROOT\SYSTEM\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 即插即用软件设备枚举器
+Description                 : 即插即用软件设备枚举器
+InstallDate                 : 
+Name                        : 即插即用软件设备枚举器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\SYSTEM\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\SYSTEM\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\SWENUM}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : swenum
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 卷管理器
+InstanceId                  : ROOT\VOLMGR\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 卷管理器
+Description                 : 卷管理器
+InstallDate                 : 
+Name                        : 卷管理器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\VOLMGR\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\VOLMGR\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {DETECTEDInternal\volmgr, DETECTED\volmgr}
+HardwareID                  : {ROOT\VOLMGR}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : volmgr
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 可编程中断控制器
+InstanceId                  : ACPI\PNP0000\4&1482180&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 可编程中断控制器
+Description                 : 可编程中断控制器
+InstallDate                 : 
+Name                        : 可编程中断控制器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0000\4&1482180&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0000\4&1482180&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0000, ACPI\PNP0000, *PNP0000}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 母板资源
+InstanceId                  : ACPI\INTC1099\4&1482180&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 母板资源
+Description                 : 母板资源
+InstallDate                 : 
+Name                        : 母板资源
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\INTC1099\4&1482180&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\INTC1099\4&1482180&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {*PNP0C02}
+HardwareID                  : {ACPI\VEN_INTC&DEV_1099, ACPI\INTC1099, *INTC1099}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 母板资源
+InstanceId                  : ACPI\PNP0C02\1
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 母板资源
+Description                 : 母板资源
+InstallDate                 : 
+Name                        : 母板资源
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\1
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\1
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 母板资源
+InstanceId                  : ACPI\PNP0C02\2
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 母板资源
+Description                 : 母板资源
+InstallDate                 : 
+Name                        : 母板资源
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\2
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\2
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 母板资源
+InstanceId                  : ACPI\PNP0C02\5
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 母板资源
+Description                 : 母板资源
+InstallDate                 : 
+Name                        : 母板资源
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\5
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\5
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 母板资源
+InstanceId                  : ACPI\PNP0C02\IOTRAPS
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 母板资源
+Description                 : 母板资源
+InstallDate                 : 
+Name                        : 母板资源
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\IOTRAPS
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\IOTRAPS
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 母板资源
+InstanceId                  : ACPI\PNP0C02\ISCLK
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 母板资源
+Description                 : 母板资源
+InstallDate                 : 
+Name                        : 母板资源
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0C02\ISCLK
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0C02\ISCLK
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0C02, ACPI\PNP0C02, *PNP0C02}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 系统计时器
+InstanceId                  : ACPI\PNP0100\4&1482180&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 系统计时器
+Description                 : 系统计时器
+InstallDate                 : 
+Name                        : 系统计时器
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ACPI\PNP0100\4&1482180&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ACPI\PNP0100\4&1482180&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ACPI\VEN_PNP&DEV_0100, ACPI\PNP0100, *PNP0100}
+Manufacturer                : (标准系统设备)
+PNPClass                    : System
+Present                     : True
+Service                     : 
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 英特尔® 智音技术 OED
+InstanceId                  : INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043&REV_0001\4&3648C111&0&0800
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 英特尔® 智音技术 OED
+Description                 : 英特尔® 智音技术 OED
+InstallDate                 : 
+Name                        : 英特尔® 智音技术 OED
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043&REV_0001\4&3648C111&0&0800
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043&REV_0001\4&3648C111&0&0800
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&REV_0001, INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222, INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086, INTELAUDIO\DSP_CTLR_DEV_51C8}
+HardwareID                  : {INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043&REV_0001, INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043}
+Manufacturer                : Intel(R) Corporation
+PNPClass                    : System
+Present                     : True
+Service                     : IntcOED
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 英特尔® 智音技术检测验证
+InstanceId                  : {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DETECTIONVERIFICATION\5&30FBD8AB&0&0
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 英特尔® 智音技术检测验证
+Description                 : 英特尔® 智音技术检测验证
+InstallDate                 : 
+Name                        : 英特尔® 智音技术检测验证
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DETECTIONVERIFICATION\5&30FBD8AB&0&0
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DETECTIONVERIFICATION\5&30FBD8AB&0&0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {{DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DetectionVerification}
+Manufacturer                : Intel(R) Corporation
+PNPClass                    : System
+Present                     : True
+Service                     : WUDFRd
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 英特尔® 智音技术总线
+InstanceId                  : PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01\3&11583659&0&FB
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 英特尔® 智音技术总线
+Description                 : 英特尔® 智音技术总线
+InstallDate                 : 
+Name                        : 英特尔® 智音技术总线
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01\3&11583659&0&FB
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01\3&11583659&0&FB
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : {PCI\VEN_8086&DEV_51C8&REV_01, PCI\VEN_8086&DEV_51C8, PCI\VEN_8086&CC_040380, PCI\VEN_8086&CC_0403...}
+HardwareID                  : {PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01, PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043, PCI\VEN_8086&DEV_51C8&CC_040380, PCI\VEN_8086&DEV_51C8&CC_0403}
+Manufacturer                : Intel(R) Corporation
+PNPClass                    : System
+Present                     : True
+Service                     : IntcAudioBus
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Class                       : System
+FriendlyName                : 远程桌面设备重定向程序总线
+InstanceId                  : ROOT\RDPBUS\0000
+Problem                     : CM_PROB_NONE
+ConfigManagerErrorCode      : CM_PROB_NONE
+ProblemDescription          : This device is working properly.
+Caption                     : 远程桌面设备重定向程序总线
+Description                 : 远程桌面设备重定向程序总线
+InstallDate                 : 
+Name                        : 远程桌面设备重定向程序总线
+Status                      : OK
+Availability                : 
+ConfigManagerUserConfig     : False
+CreationClassName           : Win32_PnPEntity
+DeviceID                    : ROOT\RDPBUS\0000
+ErrorCleared                : 
+ErrorDescription            : 
+LastErrorCode               : 
+PNPDeviceID                 : ROOT\RDPBUS\0000
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+StatusInfo                  : 
+SystemCreationClassName     : Win32_ComputerSystem
+SystemName                  : LAPTOP-1NKUSGIB
+ClassGuid                   : {4d36e97d-e325-11ce-bfc1-08002be10318}
+CompatibleID                : 
+HardwareID                  : {ROOT\RDPBUS}
+Manufacturer                : Microsoft
+PNPClass                    : System
+Present                     : True
+Service                     : rdpbus
+PSComputerName              : 
+CimClass                    : ROOT/cimv2:Win32_PnPEntity
+CimInstanceProperties       : {Caption, Description, InstallDate, Name...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+

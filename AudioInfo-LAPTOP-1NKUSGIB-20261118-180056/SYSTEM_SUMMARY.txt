@@ -1,0 +1,57 @@
+﻿=== Computer ===
+
+
+Manufacturer        : ASUSTeK COMPUTER INC.
+Model               : ROG Zephyrus M16 GU603ZM_GU603ZM
+SystemFamily        : ROG Zephyrus M16
+SystemSKUNumber     :  
+TotalPhysicalMemory : 16893870080
+
+
+
+
+=== BIOS ===
+
+
+Manufacturer      : American Megatrends International, LLC.
+SMBIOSBIOSVersion : GU603ZM.311
+Version           : _ASUS_ - 1072009
+ReleaseDate       : 2022/12/22 8:00:00
+
+
+
+
+=== BaseBoard ===
+
+
+Manufacturer : ASUSTeK COMPUTER INC.
+Product      : GU603ZM
+Version      : 1.0       
+
+
+
+
+=== OS ===
+
+
+Caption        : Microsoft Windows 11 家庭版 中文版
+Version        : 10.0.26200
+BuildNumber    : 26200
+OSArchitecture : 64 位
+LastBootUpTime : 2026/11/18 17:36:42
+
+
+
+
+=== CPU ===
+
+
+Name                      : 12th Gen Intel(R) Core(TM) i7-12700H
+Manufacturer              : GenuineIntel
+NumberOfCores             : 14
+NumberOfLogicalProcessors : 20
+MaxClockSpeed             : 2300
+
+
+
+

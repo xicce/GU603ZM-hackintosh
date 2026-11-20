@@ -1,0 +1,89 @@
+﻿
+  
+  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1\4&356d80c2&0&0108
+>     DeviceDesc    REG_SZ    @hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller
+      LocationInformation    REG_SZ    @System32\drivers\pci.sys,#65536;PCI bus %1, device %2, function %3;(1,0,1)
+      Capabilities    REG_DWORD    0x0
+      UINumber    REG_DWORD    0x1
+      Address    REG_DWORD    0x1
+      CompatibleIDs    REG_MULTI_SZ    PCI\VEN_10DE&DEV_228E&REV_A1\0PCI\VEN_10DE&DEV_228E\0PCI\VEN_10DE&CC_040300\0PCI
+\VEN_10DE&CC_0403\0PCI\VEN_10DE\0PCI\CC_040300&DT_0\0PCI\CC_040300\0PCI\CC_0403&DT_0\0PCI\CC_0403
+      ClassGUID    REG_SZ    {4d36e97d-e325-11ce-bfc1-08002be10318}
+>     Service    REG_SZ    HDAudBus
+      Driver    REG_SZ    {4d36e97d-e325-11ce-bfc1-08002be10318}\0053
+>     Mfg    REG_SZ    @hdaudbus.inf,%msft%;Microsoft
+      ConfigFlags    REG_DWORD    0x0
+      ParentIdPrefix    REG_SZ    5&38f62b09&0
+  
+  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1\4&356d80c2&0&0108\Devic
+e Parameters
+  
+  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05\01000000684CE00000
+>     DeviceDesc    REG_SZ    @oem158.inf,%rtl8125ag.devicedesc%;Realtek Gaming 2.5GbE Family Controller
+      LocationInformation    REG_SZ    @System32\drivers\pci.sys,#65536;PCI bus %1, device %2, function %3;(45,0,0)
+      Capabilities    REG_DWORD    0x10
+      UINumber    REG_DWORD    0x8
+      Address    REG_DWORD    0x0
+      Service    REG_SZ    rt25cx21
+      Driver    REG_SZ    {4d36e972-e325-11ce-bfc1-08002be10318}\0004
+>     Mfg    REG_SZ    @oem158.inf,%provider%;Realtek
+>     FriendlyName    REG_SZ    Realtek Gaming 2.5GbE Family Controller
+  
+  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_8125&SUBSYS_205F1043&REV_05\01000000684CE00000\Devi
+ce Parameters
+      DevOption    REG_DWORD    0x0
+      InstanceIndex    REG_DWORD    0x1
+  
+  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01\3&11583659&0&FD
+>     DeviceDesc    REG_SZ    @oem7.inf,%pci\ven_8086&dev_51a4desc%;Intel(R) SPI (flash) Controller - 51A4
+      LocationInformation    REG_SZ    @System32\drivers\pci.sys,#65536;PCI bus %1, device %2, function %3;(0,31,5)
+      Capabilities    REG_DWORD    0x0
+      Address    REG_DWORD    0x1f0005
+      ContainerID    REG_SZ    {00000000-0000-0000-ffff-ffffffffffff}
+  
+  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01\3&11583659&0&FB
+>     DeviceDesc    REG_SZ    @oem165.inf,%intcaudiobus.devicedesc%;英特尔? 智音技术总线
+      LocationInformation    REG_SZ    @System32\drivers\pci.sys,#65536;PCI bus %1, device %2, function %3;(0,31,3)
+      Capabilities    REG_DWORD    0x0
+      Address    REG_DWORD    0x1f0003
+      ContainerID    REG_SZ    {00000000-0000-0000-ffff-ffffffffffff}
+      CompatibleIDs    REG_MULTI_SZ    PCI\VEN_8086&DEV_51C8&REV_01\0PCI\VEN_8086&DEV_51C8\0PCI\VEN_8086&CC_040380\0PCI
+\VEN_8086&CC_0403\0PCI\VEN_8086\0PCI\CC_040380\0PCI\CC_0403
+      ClassGUID    REG_SZ    {4d36e97d-e325-11ce-bfc1-08002be10318}
+>     Service    REG_SZ    IntcAudioBus
+      Driver    REG_SZ    {4d36e97d-e325-11ce-bfc1-08002be10318}\0043
+      Mfg    REG_SZ    Intel(R) Corporation
+      ConfigFlags    REG_DWORD    0x0
+      ParentIdPrefix    REG_SZ    4&3648c111&0
+  
+  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01\3&11583659&0&A8
+>     DeviceDesc    REG_SZ    @oem2.inf,%ialpss2_i2c_adl.devicedesc_10%;Intel(R) Serial IO I2C Host Controller - 51E8
+      LocationInformation    REG_SZ    @System32\drivers\pci.sys,#65536;PCI bus %1, device %2, function %3;(0,21,0)
+      Capabilities    REG_DWORD    0x0
+      Address    REG_DWORD    0x150000
+      ContainerID    REG_SZ    {00000000-0000-0000-ffff-ffffffffffff}
+      CompatibleIDs    REG_MULTI_SZ    PCI\VEN_8086&DEV_51E8&REV_01\0PCI\VEN_8086&DEV_51E8\0PCI\VEN_8086&CC_0C8000\0PCI
+\VEN_8086&CC_0C80\0PCI\VEN_8086\0PCI\CC_0C8000\0PCI\CC_0C80
+      ClassGUID    REG_SZ    {4d36e97d-e325-11ce-bfc1-08002be10318}
+>     Service    REG_SZ    iaLPSS2_I2C_ADL
+      Driver    REG_SZ    {4d36e97d-e325-11ce-bfc1-08002be10318}\0037
+      Mfg    REG_SZ    @oem2.inf,%intel%;Intel Corporation
+      ConfigFlags    REG_DWORD    0x0
+  
+  
+  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01\3&11583659&0&A9
+>     DeviceDesc    REG_SZ    @oem2.inf,%ialpss2_i2c_adl.devicedesc_11%;Intel(R) Serial IO I2C Host Controller - 51E9
+      LocationInformation    REG_SZ    @System32\drivers\pci.sys,#65536;PCI bus %1, device %2, function %3;(0,21,1)
+      Capabilities    REG_DWORD    0x0
+      Address    REG_DWORD    0x150001
+      ContainerID    REG_SZ    {00000000-0000-0000-ffff-ffffffffffff}
+      CompatibleIDs    REG_MULTI_SZ    PCI\VEN_8086&DEV_51E9&REV_01\0PCI\VEN_8086&DEV_51E9\0PCI\VEN_8086&CC_0C8000\0PCI
+\VEN_8086&CC_0C80\0PCI\VEN_8086\0PCI\CC_0C8000\0PCI\CC_0C80
+      ClassGUID    REG_SZ    {4d36e97d-e325-11ce-bfc1-08002be10318}
+>     Service    REG_SZ    iaLPSS2_I2C_ADL
+      Driver    REG_SZ    {4d36e97d-e325-11ce-bfc1-08002be10318}\0038
+      Mfg    REG_SZ    @oem2.inf,%intel%;Intel Corporation
+      ConfigFlags    REG_DWORD    0x0
+  
+
+

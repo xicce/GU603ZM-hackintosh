@@ -1,0 +1,53 @@
+﻿Microsoft PnP 工具
+
+实例 ID:                SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+设备描述:         Microsoft 流服务代理
+类名:                 MEDIA
+类 GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                ksfilter.inf
+
+实例 ID:                INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30fbd8ab&0&0001
+设备描述:         Realtek(R) Audio
+类名:                 MEDIA
+类 GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+制造商名称:          Realtek
+状态:                     已启动
+驱动程序名称:                oem48.inf
+扩展驱动程序名称:     oem49.inf
+                            oem191.inf
+                            oem194.inf
+
+实例 ID:                ROOT\UNNAMED_DEVICE\0000
+设备描述:         NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+类名:                 MEDIA
+类 GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+制造商名称:          NVIDIA
+状态:                     已启动
+驱动程序名称:                oem79.inf
+
+实例 ID:                INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_03&DEVTYPE_00&VEN_8086&DEV_AE30&SUBSYS_1C621043&REV_0001\5&30fbd8ab&0&0000
+设备描述:         适用于蓝牙? 音频的英特尔? 智音技术
+类名:                 MEDIA
+类 GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel(R) Corporation
+状态:                     已启动
+驱动程序名称:                oem171.inf
+
+实例 ID:                HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38f62b09&0&0001
+设备描述:         NVIDIA High Definition Audio
+类名:                 MEDIA
+类 GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+制造商名称:          NVIDIA
+状态:                     已启动
+驱动程序名称:                oem82.inf
+
+实例 ID:                INTELAUDIO\CTLR_DEV_51C8&LINKTYPE_06&DEVTYPE_06&VEN_8086&DEV_AE50&SUBSYS_1C621043&REV_0001\0602
+设备描述:         适用于 USB 音频的英特尔? 智音技术
+类名:                 MEDIA
+类 GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel(R) Corporation
+状态:                     已启动
+驱动程序名称:                oem167.inf
+

@@ -1,0 +1,563 @@
+﻿Microsoft PnP 工具
+
+实例 ID:                PCI\VEN_8086&DEV_464F&SUBSYS_1C621043&REV_02\3&11583659&0&40
+设备描述:         Intel(R) GNA Scoring Accelerator module
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel Corporation
+状态:                     已启动
+驱动程序名称:                oem162.inf
+
+实例 ID:                ACPI\INTC1046\SEN1
+设备描述:         Intel(R) Innovation Platform Framework Generic Participant
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel
+状态:                     已启动
+驱动程序名称:                oem141.inf
+
+实例 ID:                ACPI\INTC1046\SEN2
+设备描述:         Intel(R) Innovation Platform Framework Generic Participant
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel
+状态:                     已启动
+驱动程序名称:                oem141.inf
+
+实例 ID:                ACPI\INTC1046\SEN3
+设备描述:         Intel(R) Innovation Platform Framework Generic Participant
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel
+状态:                     已启动
+驱动程序名称:                oem141.inf
+
+实例 ID:                ACPI\INTC1046\SEN4
+设备描述:         Intel(R) Innovation Platform Framework Generic Participant
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel
+状态:                     已启动
+驱动程序名称:                oem141.inf
+
+实例 ID:                ACPI\PNP0C02\1
+设备描述:         母板资源
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI\PNP0C02\2
+设备描述:         母板资源
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI\PNP0C02\5
+设备描述:         母板资源
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51E8&SUBSYS_1C621043&REV_01\3&11583659&0&A8
+设备描述:         Intel(R) Serial IO I2C Host Controller - 51E8
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel Corporation
+状态:                     已启动
+驱动程序名称:                oem2.inf
+
+实例 ID:                ACPI\ASUS2018\2&daba3ff&0
+设备描述:         ASUS System Control Interface v3
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          ASUS
+状态:                     已停止
+驱动程序名称:                oem73.inf
+
+实例 ID:                ACPI\ACPI000C\2&daba3ff&0
+设备描述:         ACPI 处理器聚合器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                acpipagr.inf
+
+实例 ID:                PCI\VEN_8086&DEV_460D&SUBSYS_1C621043&REV_02\3&11583659&0&08
+设备描述:         Intel(R) PEG10 - 460D
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已启动
+驱动程序名称:                oem13.inf
+扩展驱动程序名称:     oem5.inf
+
+实例 ID:                ROOT\volmgr\0000
+设备描述:         卷管理器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                volmgr.inf
+
+实例 ID:                ACPI\INTC1055\2&daba3ff&0
+设备描述:         Intel(R) Serial IO GPIO Host Controller - INTC1055
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel Corporation
+状态:                     已启动
+驱动程序名称:                oem1.inf
+
+实例 ID:                ROOT\BasicDisplay\0000
+设备描述:         Microsoft 基本显示驱动程序
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准显示器类型)
+状态:                     已启动
+驱动程序名称:                basicdisplay.inf
+
+实例 ID:                ACPI\ThermalZone\THRM
+设备描述:         ACPI 热区域
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI\PNP0C0E\2&daba3ff&0
+设备描述:         ACPI 睡眠按钮
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                machine.inf
+
+实例 ID:                ROOT\hvservice\0000
+设备描述:         Microsoft 虚拟机监控程序服务
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                hvservice.inf
+
+实例 ID:                ACPI\INTC1099\4&1482180&0
+设备描述:         母板资源
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DetectionVerification\5&30fbd8ab&0&0
+设备描述:         英特尔? 智音技术检测验证
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel(R) Corporation
+状态:                     已启动
+驱动程序名称:                oem164.inf
+
+实例 ID:                ACPI\PNP0C14\DSarDev
+设备描述:         Microsoft Windows Management Interface for ACPI
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                wmiacpi.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01\3&11583659&0&FB
+设备描述:         英特尔? 智音技术总线
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel(R) Corporation
+状态:                     已启动
+驱动程序名称:                oem165.inf
+扩展驱动程序名称:     oem67.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51A3&SUBSYS_1C621043&REV_01\3&11583659&0&FC
+设备描述:         Intel(R) SMBus - 51A3
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已停止
+驱动程序名称:                oem7.inf
+
+实例 ID:                ROOT\VID\0000
+设备描述:         Microsoft Hyper-V 虚拟化基础结构驱动程序
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                wvid.inf
+
+实例 ID:                ACPI\PNP0103\0
+设备描述:         高精度事件计时器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI\PNP0C02\ISCLK
+设备描述:         母板资源
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                ROOT\CompositeBus\0000
+设备描述:         复合总线枚举器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                compositebus.inf
+
+实例 ID:                ROOT\vdrvroot\0000
+设备描述:         Microsoft 虚拟驱动器枚举器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                vdrvroot.inf
+
+实例 ID:                PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01\3&11583659&0&50
+设备描述:         Intel(R) 平台监控技术驱动程序
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel(R) 平台监控技术设备
+状态:                     已启动
+驱动程序名称:                intelpmt.inf
+
+实例 ID:                PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02\3&11583659&0&30
+设备描述:         Intel(R) PEG60 - 464D
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已启动
+驱动程序名称:                oem13.inf
+扩展驱动程序名称:     oem5.inf
+
+实例 ID:                INTELAUDIO\DSP_CTLR_DEV_51C8&VEN_8086&DEV_0222&SUBSYS_1C621043&REV_0001\4&3648c111&0&0800
+设备描述:         英特尔? 智音技术 OED
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel(R) Corporation
+状态:                     已启动
+驱动程序名称:                oem166.inf
+扩展驱动程序名称:     oem205.inf
+
+实例 ID:                ROOT\UMBUS\0000
+设备描述:         UMBus Root Bus Enumerator
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                umbus.inf
+
+实例 ID:                ROOT\CAD\0000
+设备描述:         充电均衡驱动程序
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                ChargeArbitration.inf
+
+实例 ID:                ACPI\PNP0000\4&1482180&0
+设备描述:         可编程中断控制器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI\INTC1041\2&daba3ff&0
+设备描述:         Intel(R) Innovation Platform Framework Manager
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel
+状态:                     已启动
+驱动程序名称:                oem141.inf
+
+实例 ID:                PCI\VEN_10DE&DEV_228E&SUBSYS_1A7C1043&REV_A1\4&356d80c2&0&0108
+设备描述:         High Definition Audio 控制器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                hdaudbus.inf
+
+实例 ID:                ACPI\PNP0C14\ATK
+设备描述:         Microsoft Windows Management Interface for ACPI
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                wmiacpi.inf
+
+实例 ID:                ACPI\PNP0C14\TestDev
+设备描述:         Microsoft Windows Management Interface for ACPI
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                wmiacpi.inf
+
+实例 ID:                ACPI\PNP0A08\0
+设备描述:         PCI Express 根复合体
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                pci.inf
+
+实例 ID:                PCI\VEN_8086&DEV_461D&SUBSYS_1C621043&REV_02\3&11583659&0&20
+设备描述:         Intel(R) Innovation Platform Framework Processor Participant
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel
+状态:                     已启动
+驱动程序名称:                oem142.inf
+扩展驱动程序名称:     oem139.inf
+
+实例 ID:                ACPI\PNP0C0C\2&daba3ff&0
+设备描述:         ACPI 电源按钮
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI_HAL\PNP0C08\0
+设备描述:         Microsoft ACPI-Compliant System
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                acpi.inf
+
+实例 ID:                ROOT\BasicRender\0000
+设备描述:         Microsoft 基本呈现驱动程序
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                basicrender.inf
+
+实例 ID:                ACPI_HAL\UEFI\0
+设备描述:         Microsoft UEFI 兼容系统
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                uefi.inf
+
+实例 ID:                ACPI\PNP0C0D\5&17cca4af&0
+设备描述:         ACPI 盖子
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI\FixedButton\2&daba3ff&0
+设备描述:         ACPI 固定功能按钮
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI\PNP0C09\4&1482180&0
+设备描述:         Microsoft ACPI 兼容的嵌入式控制器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                machine.inf
+
+实例 ID:                ACPI\ACPI000E\2&daba3ff&0
+设备描述:         ACPI 唤醒警报
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                acpitime.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51E9&SUBSYS_1C621043&REV_01\3&11583659&0&A9
+设备描述:         Intel(R) Serial IO I2C Host Controller - 51E9
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel Corporation
+状态:                     已启动
+驱动程序名称:                oem2.inf
+
+实例 ID:                ACPI\INT33A1\1
+设备描述:         Intel(R) Power Engine Plug-in
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel Corporation
+状态:                     已启动
+驱动程序名称:                intelpep.inf
+
+实例 ID:                ACPI\PNP0C02\IoTraps
+设备描述:         母板资源
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51BC&SUBSYS_1C621043&REV_01\3&11583659&0&E0
+设备描述:         Intel(R) PCI Express Root Port #5 - 51BC
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已启动
+驱动程序名称:                oem7.inf
+扩展驱动程序名称:     oem6.inf
+
+实例 ID:                ACPI\PNP0100\4&1482180&0
+设备描述:         系统计时器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已停止
+驱动程序名称:                machine.inf
+
+实例 ID:                PCI\VEN_8086&DEV_4641&SUBSYS_1C621043&REV_02\3&11583659&0&00
+设备描述:         Intel(R) Host Bridge/DRAM Registers - 4641
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已启动
+驱动程序名称:                oem13.inf
+
+实例 ID:                ROOT\NdisVirtualBus\0000
+设备描述:         NDIS 虚拟网络适配器枚举器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                ndisvirtualbus.inf
+
+实例 ID:                PCI\VEN_8086&DEV_466E&SUBSYS_00000000&REV_02\3&11583659&0&38
+设备描述:         Intel(R) TypeC PCIe - 466E
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已启动
+驱动程序名称:                oem13.inf
+扩展驱动程序名称:     oem5.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51EF&SUBSYS_1C621043&REV_01\3&11583659&0&A2
+设备描述:         Intel(R) Shared SRAM - 51EF
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已停止
+驱动程序名称:                oem7.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51A4&SUBSYS_1C621043&REV_01\3&11583659&0&FD
+设备描述:         Intel(R) SPI (flash) Controller - 51A4
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已停止
+驱动程序名称:                oem7.inf
+
+实例 ID:                ACPI\ASUS9001\2&daba3ff&0
+设备描述:         Armoury Crate Control Interface
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          ASUS
+状态:                     已停止
+驱动程序名称:                oem54.inf
+
+实例 ID:                PCI\VEN_8086&DEV_5182&SUBSYS_1C621043&REV_01\3&11583659&0&F8
+设备描述:         Intel(R) LPC Controller - 5182
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已启动
+驱动程序名称:                oem7.inf
+扩展驱动程序名称:     oem6.inf
+
+实例 ID:                ROOT\mssmbios\0000
+设备描述:         Microsoft System Management BIOS Driver
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                mssmbios.inf
+
+实例 ID:                ROOT\SYSTEM\0000
+设备描述:         即插即用软件设备枚举器
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          (标准系统设备)
+状态:                     已启动
+驱动程序名称:                swenum.inf
+
+实例 ID:                ROOT\SYSTEM\0001
+设备描述:         Nefarius Virtual Gamepad Emulation Bus
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Nefarius Software Solutions e.U.
+状态:                     已启动
+驱动程序名称:                oem200.inf
+
+实例 ID:                ROOT\SYSTEM\0002
+设备描述:         UUYCInput HID
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Netease
+状态:                     已启动
+驱动程序名称:                oem201.inf
+
+实例 ID:                ROOT\SYSTEM\0003
+设备描述:         Nefarius HidHide Device
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Nefarius Software Solutions e.U.
+状态:                     已启动
+驱动程序名称:                oem88.inf
+
+实例 ID:                ROOT\SYSTEM\0004
+设备描述:         FakerInput Device
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Ryochan7
+状态:                     已启动
+驱动程序名称:                oem89.inf
+
+实例 ID:                ROOT\RDPBUS\0000
+设备描述:         远程桌面设备重定向程序总线
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Microsoft
+状态:                     已启动
+驱动程序名称:                rdpbus.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51BE&SUBSYS_1C621043&REV_01\3&11583659&0&E6
+设备描述:         Intel(R) PCI Express Root Port #7 - 51BE
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          INTEL
+状态:                     已启动
+驱动程序名称:                oem7.inf
+扩展驱动程序名称:     oem6.inf
+
+实例 ID:                PCI\VEN_8086&DEV_51E0&SUBSYS_1C621043&REV_01\3&11583659&0&B0
+设备描述:         Intel(R) Management Engine Interface #1
+类名:                 System
+类 GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+制造商名称:          Intel
+状态:                     已启动
+驱动程序名称:                oem44.inf
+

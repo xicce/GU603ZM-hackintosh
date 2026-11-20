@@ -1,0 +1,311 @@
+﻿
+
+TimeCreated      : 2026/11/18 18:01:56
+Id               : 26
+LevelDisplayName : 信息
+ProviderName     : Application Popup
+Message          : 弹出应用程序: python.exe - 损坏的映像: C:\Users\xicce\AppData\Local\Programs\Python\Python310\VCRUNTIME140.dll 没有被指定在 Windows 上运行，或者它包含错误。请尝试使用原始安装介质重新安装程序，或联系你的系统管理员或软件供应商以获取支持。错误状态 0xc000012f。 
+
+TimeCreated      : 2026/11/18 18:01:56
+Id               : 26
+LevelDisplayName : 信息
+ProviderName     : Application Popup
+Message          : 弹出应用程序: python.exe - 损坏的映像: C:\Users\xicce\AppData\Local\Programs\Python\Python310\VCRUNTIME140.dll 没有被指定在 Windows 上运行，或者它包含错误。请尝试使用原始安装介质重新安装程序，或联系你的系统管理员或软件供应商以获取支持。错误状态 0xc000012f。 
+
+TimeCreated      : 2026/11/18 18:01:53
+Id               : 26
+LevelDisplayName : 信息
+ProviderName     : Application Popup
+Message          : 弹出应用程序: python.exe - 损坏的映像: C:\Users\xicce\AppData\Local\Programs\Python\Python310\VCRUNTIME140.dll 没有被指定在 Windows 上运行，或者它包含错误。请尝试使用原始安装介质重新安装程序，或联系你的系统管理员或软件供应商以获取支持。错误状态 0xc000012f。 
+
+TimeCreated      : 2026/11/18 18:01:53
+Id               : 26
+LevelDisplayName : 信息
+ProviderName     : Application Popup
+Message          : 弹出应用程序: python.exe - 损坏的映像: C:\Users\xicce\AppData\Local\Programs\Python\Python310\VCRUNTIME140.dll 没有被指定在 Windows 上运行，或者它包含错误。请尝试使用原始安装介质重新安装程序，或联系你的系统管理员或软件供应商以获取支持。错误状态 0xc000012f。 
+
+TimeCreated      : 2026/11/18 18:01:44
+Id               : 26
+LevelDisplayName : 信息
+ProviderName     : Application Popup
+Message          : 弹出应用程序: python.exe - 损坏的映像: C:\Users\xicce\AppData\Local\Programs\Python\Python310\VCRUNTIME140.dll 没有被指定在 Windows 上运行，或者它包含错误。请尝试使用原始安装介质重新安装程序，或联系你的系统管理员或软件供应商以获取支持。错误状态 0xc000012f。 
+
+TimeCreated      : 2026/11/18 18:01:44
+Id               : 26
+LevelDisplayName : 信息
+ProviderName     : Application Popup
+Message          : 弹出应用程序: python.exe - 损坏的映像: C:\Users\xicce\AppData\Local\Programs\Python\Python310\VCRUNTIME140.dll 没有被指定在 Windows 上运行，或者它包含错误。请尝试使用原始安装介质重新安装程序，或联系你的系统管理员或软件供应商以获取支持。错误状态 0xc000012f。 
+
+TimeCreated      : 2026/11/18 17:51:42
+Id               : 16
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-Kernel-General
+Message          : 已经清除配置单元 \??\C:\ProgramData\Microsoft\Provisioning\Microsoft-Desktop-Provisioning-Sequence.dat 中的访问历史记录，更新 0 个项并创建 0 个已修改的页面。
+
+TimeCreated      : 2026/11/18 17:36:56
+Id               : 113
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 尝试将 URL (http://127.0.0.1:13508:127.0.0.1/mcp/)添加到 URL 组(0xFE00000D20000001)。状态： 0x0。用户 S-1-5-21-739519931-1217320477-479017196-1002 0x2770可执行文件路径\Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe进程 ID
+
+TimeCreated      : 2026/11/18 17:36:56
+Id               : 111
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 创建 URL 组0xFE00000D20000001。状态0x0。进程 ID 0x2770可执行文件路径\Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe，用户 S-1-5-21-739519931-1217320477-479017196-1002
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_whm_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_whm_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_intel_wov_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_vlldp14x_lite_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {56a9ea76-3745-4cc0-815c-a621faa8c9cb} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_vlldp14x_lite_lib.bin.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_rtksep481_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {7aa4db02-6b41-4bc3-a712-80a2dde29e11} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_rtksep481_lib.bin.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dtspost_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {a28aff37-8f9e-4b9f-8c0a-0b86db7ce6f0} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dtspost_lib.bin.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dirac1_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 17:36:49
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {85e6897a-07d3-4db6-9823-3fe0585490d6} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dirac1_lib.bin.
+
+TimeCreated      : 2026/11/18 15:48:58
+Id               : 117
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 删除 URL 组0xFE00001020000001。状态0x0。用户 S-1-5-21-739519931-1217320477-479017196-1002 \Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe0x27E4可执行文件路径的进程 ID
+
+TimeCreated      : 2026/11/18 15:48:58
+Id               : 115
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 已从 URL 组0xFE00001020000001中删除所有 URL。进程 ID 0x27E4可执行文件路径\Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe，用户 S-1-5-21-739519931-1217320477-479017196-1002
+
+TimeCreated      : 2026/11/18 15:48:48
+Id               : 113
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 尝试将 URL (http://127.0.0.1:13508:127.0.0.1/mcp/)添加到 URL 组(0xFE00001020000001)。状态： 0x0。用户 S-1-5-21-739519931-1217320477-479017196-1002 0x27E4可执行文件路径\Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe进程 ID
+
+TimeCreated      : 2026/11/18 15:48:48
+Id               : 111
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 创建 URL 组0xFE00001020000001。状态0x0。进程 ID 0x27E4可执行文件路径\Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe，用户 S-1-5-21-739519931-1217320477-479017196-1002
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_whm_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_whm_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_intel_wov_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_vlldp14x_lite_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {56a9ea76-3745-4cc0-815c-a621faa8c9cb} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_vlldp14x_lite_lib.bin.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_rtksep481_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {7aa4db02-6b41-4bc3-a712-80a2dde29e11} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_rtksep481_lib.bin.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dtspost_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {a28aff37-8f9e-4b9f-8c0a-0b86db7ce6f0} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dtspost_lib.bin.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dirac1_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 15:48:41
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {85e6897a-07d3-4db6-9823-3fe0585490d6} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dirac1_lib.bin.
+
+TimeCreated      : 2026/11/18 15:48:05
+Id               : 117
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 删除 URL 组0xFE00000A20000001。状态0x0。用户 S-1-5-21-739519931-1217320477-479017196-1002 \Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe0x24AC可执行文件路径的进程 ID
+
+TimeCreated      : 2026/11/18 15:48:05
+Id               : 115
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 已从 URL 组0xFE00000A20000001中删除所有 URL。进程 ID 0x24AC可执行文件路径\Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe，用户 S-1-5-21-739519931-1217320477-479017196-1002
+
+TimeCreated      : 2026/11/18 15:47:50
+Id               : 16
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-Kernel-General
+Message          : 已经清除配置单元 \??\C:\ProgramData\Packages\BandizipShellext2_y8jx0atjth7em\S-1-5-21-739519931-1217320477-479017196-1002\SystemAppData\Helium\Cache\375474f8f7da4acb_COM15.dat 中的访问历史记录，更新 1 个项并创建 1 个已修改的页面。
+
+TimeCreated      : 2026/11/18 15:47:28
+Id               : 113
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 尝试将 URL (http://127.0.0.1:13508:127.0.0.1/mcp/)添加到 URL 组(0xFE00000A20000001)。状态： 0x0。用户 S-1-5-21-739519931-1217320477-479017196-1002 0x24AC可执行文件路径\Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe进程 ID
+
+TimeCreated      : 2026/11/18 15:47:28
+Id               : 111
+LevelDisplayName : 信息
+ProviderName     : Microsoft-Windows-HttpService
+Message          : 创建 URL 组0xFE00000A20000001。状态0x0。进程 ID 0x24AC可执行文件路径\Device\HarddiskVolume3\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe，用户 S-1-5-21-739519931-1217320477-479017196-1002
+
+TimeCreated      : 2026/11/18 15:47:22
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_whm_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 15:47:22
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_whm_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 15:47:22
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Loaded DSP FW library: Libs\dsp_lib_intel_wov_adl_release.bin, status = STATUS_SUCCESS.
+
+TimeCreated      : 2026/11/18 15:47:21
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_vlldp14x_lite_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 15:47:21
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {56a9ea76-3745-4cc0-815c-a621faa8c9cb} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_vlldp14x_lite_lib.bin.
+
+TimeCreated      : 2026/11/18 15:47:21
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_rtksep481_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 15:47:21
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {7aa4db02-6b41-4bc3-a712-80a2dde29e11} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_rtksep481_lib.bin.
+
+TimeCreated      : 2026/11/18 15:47:21
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dtspost_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 15:47:21
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {a28aff37-8f9e-4b9f-8c0a-0b86db7ce6f0} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dtspost_lib.bin.
+
+TimeCreated      : 2026/11/18 15:47:21
+Id               : 28
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : Library is not supported in BIOS: \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dirac1_lib.bin, status = 不支持该请求。.
+
+TimeCreated      : 2026/11/18 15:47:21
+Id               : 29
+LevelDisplayName : 信息
+ProviderName     : Intel-SST-OED
+Message          : FX module is not supported in BIOS:  {85e6897a-07d3-4db6-9823-3fe0585490d6} from \??\C:\Windows\System32\DriverStore\FileRepository\intcoed_oemlibpath.inf_amd64_efdfa836a0dcac18\adl_dirac1_lib.bin.
+
+
+
+
