@@ -2,7 +2,7 @@
 ROG m16 GU603ZM hackintosh EFI
 # Hackintosh OpenCore EFI Archive
 
-ROG m16 GU603ZM hackintosh EFI
+ROG m16 GU603ZM on macOS 26.7.3 (25G342)
 
 ---
 
