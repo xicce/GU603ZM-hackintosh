@@ -1,0 +1,65 @@
+﻿====================================================================================
+ HDA Codec 采集报告 · Windows 侧
+ 目标: 10EC:0285 (ALC285)     生成: 2026-11-19 19:36:11
+ 主机: LAPTOP-1NKUSGIB  ·  Windows 10.0 build 26200
+====================================================================================
+
+[1] Codec 清单
+  ✅ INTELAUDIO\FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000\5&30fbd8ab&0&0001
+       CodecID = 0x0285   Vendor = Realtek   Subsystem = 0x10431C62   Revision = 0x1000
+       状态: 已启动；驱动 IntcAzAudAddService 6.0.9373.1
+  ⛔ HDAUDIO\FUNC_01&VEN_10DE&DEV_009F&SUBSYS_10431A7C&REV_1001\5&38f62b09&0&0001
+       CodecID = 0x009F   Vendor = NVIDIA   Subsystem = 0x10431A7C   Revision = 0x1001
+       状态: 已启动；驱动 NVHDA 1.4.6.6
+       ⛔ 显卡 HDMI/DP 音频 codec，导出节点树时必须排除（指南 §2.2）
+
+[2] 控制器
+  PCI ID ......... 8086:51C8   subsys 0x1C621043
+  设备实例 ....... PCI\VEN_8086&DEV_51C8&SUBSYS_1C621043&REV_01\3&11583659&0&FB
+  驱动 ........... IntcAudioBus 10.29.0.7767
+  设备路径 ....... PciRoot(0x0)/Pci(0x1F,0x3)
+  ACPI / BIOS 名 . \_SB.PC00.HDAS
+  ACPI 短名 ...... HDAS   ← AppleALC 就是按这个名字匹配控制器
+  状态 ........... 已启动
+  ℹ 这个控制器由 Intel 智音技术总线（SST）接管：板载 codec 枚举在 INTELAUDIO 下，而不是 HDAUDIO。
+    已确认：FUNC_01&VEN_10EC&DEV_0285&SUBSYS_10431C62&REV_1000  0x0285
+       → 这个值（HDAS / HDEF）是 AppleALC 要匹配的控制器名，改名会让它匹配不上（指南 §4.0）
+
+    · 10DE:228E   High Definition Audio 控制器
+        PciRoot(0x0)/Pci(0x0,0x1)      ACPI 名 （未读到）         驱动 HDAudBus         已启动
+    · 8086:51C8   英特尔® 智音技术总线
+        PciRoot(0x0)/Pci(0x1F,0x3)     ACPI 名 \_SB.PC00.HDAS     驱动 IntcAudioBus     已启动
+
+[3] Pin Config
+  ⚠ 没有 pin config 值。Windows 用户态读不到 codec 寄存器，这是预期内的。
+     三条路，拿到值后回灌本脚本出 §2.4 表格：
+       ① 本目录 tools\RtHDDump.exe 跑一遍，得到 RtHDDump.txt
+          python hda_codec_dump.py --parse RtHDDump.txt
+       ② 手抄每个引脚的值一次喂进来：
+          python hda_codec_dump.py --pin 0x14=0x90170110,0x21=0x02211020,...
+       ③ Linux Live USB：cat /proc/asound/card*/codec#0 > codec.txt
+          python hda_codec_dump.py --parse codec.txt
+
+[4] Windows 当前枚举到的音频端点
+  输出（13 个，显示 2 个）：
+    [active   ] 扬声器                                      扬声器
+    [unplugged] Headphones                               耳机
+    …另有 11 个 notpresent（历史残留端点），加 --all-endpoints 看
+  输入（8 个，显示 2 个）：
+    [active   ] Microphone Array                         麦克风
+    [unplugged] Microphone                               麦克风
+    …另有 6 个 notpresent（历史残留端点），加 --all-endpoints 看
+
+  端点名是 Windows 端点层给的名字，不等于 codec 设备名；
+  设备名最终由 AppleHDA 按设备类型查 Localizable.strings，改不了（指南 §3.3）。
+
+[5] 结论 / 下一步
+  ✅ codec 已识别：10EC:0285 → CodecID 0x0285（AppleALC 目录名 ALC285）
+  ⚠ 缺 pin config：tools\RtHDDump.exe 导出后 --parse，或 --pin 手动喂
+  • 没扫 AppleALC 资源（可选：--applealc <AppleALC 仓库目录>，它会算出没被占用的 layout-id）
+  • 完整节点树 / 连接表 / Amp 能力：RtHDDump 给的是 verb 流水，没有 ALSA 那种排版；要整棵树用 Linux 的 /proc/asound/card*/codec#0 再 --parse
+
+------------------------------------------------------------------------------------
+ 字段规范依据：Intel High Definition Audio Specification Rev 1.0a
+ （Pin Config Default §180–183 / Figure 74，Pin Widget Control §163 / Figure 67）
+ 只读采集，不写注册表、不调驱动。生成器版本 1.0
